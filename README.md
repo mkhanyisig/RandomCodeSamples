@@ -1,1 +1,1 @@
-Front end and Back End + SQL Sample Codes from various tasks
+Mostly Back End + Front End & SQL Sample Codes from various tasks
