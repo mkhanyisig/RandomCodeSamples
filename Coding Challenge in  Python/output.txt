@@ -1,0 +1,94 @@
+### opening file
+
+### closing file
+
+** fullnames:
+ 50000
+
+** lastnames:
+ 50000
+
+** firstnames:
+ 50000
+
+ ## sets
+
+
+ ** Unique fullnames : 49157
+
+ ** Unique firstnames : 3007
+
+ ** Unique lastnames : 475
+
+ ** Most Common Lastnames:  [('Barton', 143), ('Lang', 136), ('Ortiz', 135), ('Hilll', 134), ('Hills', 130), ('Batz', 129), ('Terry', 129), ('123Becker', 128), ('Johns', 128), ('Romaguera', 128)]
+
+ ** Most Common Firstnames:  [('Tara', 34), ('Andreanne', 32), ('Ulices', 31), ('Stephania', 31), ('Summer', 31), ('Keon', 31), ('Milo', 30), ('Manley', 30), ('Kayley', 30), ('Heath', 30)]
+limit : BREAK
+sets :
+ ** fn
+ {'Stanley', 'Elmo', 'Agustina', 'Donna', 'Constantin', 'Matilde', 'Luis', 'Mckenna', 'Lennie', 'Nikko', 'Nicolas', 'Thad', 'Madison', 'Berry', 'Colby', 'Mariah', 'Davin', 'Samanta', 'Bethel', 'Roy', 'Gertrude', 'Garfield', 'Anita', 'Norma', 'Ryley'} 
+ ** ln 
+ {'Lang', 'Lehner', 'Marvin', 'McGlynn', 'Lynch', 'Adams', 'Ortiz', 'Hoppe', 'McLaughlin', 'Runolfsdottir', 'Bradtke', 'Tromp', 'Stoltenberg', 'Graham', 'Tillman', 'Stanton', "O'Conner", 'Kunze', 'Hills', 'Koch', 'Cartwright', 'Rogahn', 'Bahringer', 'Shanahan', 'Fisher'} 
+ ** modified:
+  length 25 
+ {'Lynch Norma', 'Hoppe Stanley', 'Fisher Elmo', 'Cartwright Nicolas', 'Graham Mckenna', 'McGlynn Thad', 'Bahringer Lennie', 'Tromp Ryley', 'Bradtke Nikko', 'Hills Samanta', 'Shanahan Bethel', 'Lang Agustina', 'McLaughlin Mariah', 'Stoltenberg Donna', 'Koch Berry', 'Tillman Madison', 'Lehner Matilde', 'Runolfsdottir Roy', 'Kunze Gertrude', "O'Conner Constantin", 'Marvin Garfield', 'Stanton Davin', 'Rogahn Colby', 'Ortiz Anita', 'Adams Luis'}
+
+************************
+ Unique names:
+ length:  25 
+ ['Graham Mckenna', 'Marvin Garfield', 'McLaughlin Mariah', 'Lang Agustina', 'Bradtke Nikko', 'Adams Luis', 'Lehner Matilde', 'Ortiz Anita', 'Koch Berry', 'Cartwright Nicolas', 'Fisher Elmo', 'Kunze Gertrude', 'Stanton Davin', "O'Conner Constantin", 'Runolfsdottir Roy', 'Rogahn Colby', 'Tromp Ryley', 'Hoppe Stanley', 'Shanahan Bethel', 'Hills Samanta', 'McGlynn Thad', 'Lynch Norma', 'Bahringer Lennie', 'Tillman Madison', 'Stoltenberg Donna']
+
+ ## ** Unique name set does not have enough modified names
+
+
+************************
+ Modified names:
+ length:  13 
+ ['Stoltenberg Ryley', 'Lynch Nikko', 'Cartwright Anita', 'McGlynn Norma', 'Lang Stanley', 'Bahringer Gertrude', 'Adams Mariah', 'Tromp Mckenna', 'Lehner Roy', 'Runolfsdottir Luis', 'Shanahan Davin', 'Rogahn Thad', 'Graham Constantin']
+
+*****************************************************************
+
+##    Mkhanyisi Gamedze : Yesware Coding Challenge Answers     ##
+
+*****************************************************************
+
+1.
+ The unique count of full names (i.e. duplicates are counted only once)
+
+ ** Unique fullnames : 49157
+2.
+ The unique count of last names
+
+ ** Unique lastnames : 475
+3.
+ The unique count of first names
+
+ ** Unique firstnames : 3007
+4.
+ The ten most common last names (the names and number of occurrences)
+
+ ** 10 Most Common Lastnames: 
+ [('Barton', 143), ('Lang', 136), ('Ortiz', 135), ('Hilll', 134), ('Hills', 130), ('Batz', 129), ('Terry', 129), ('123Becker', 128), ('Johns', 128), ('Romaguera', 128)]
+5.
+ The ten most common first names (the names and number of occurrences)
+
+ ** 10 Most Common Firstnames: 
+ [('Tara', 34), ('Andreanne', 32), ('Ulices', 31), ('Stephania', 31), ('Summer', 31), ('Keon', 31), ('Milo', 30), ('Manley', 30), ('Kayley', 30), ('Heath', 30)]
+6.
+ A list of 25 specially unique names (see below for details)
+
+**
+Unique names:
+ length:  25 
+ ['Graham Mckenna', 'Marvin Garfield', 'McLaughlin Mariah', 'Lang Agustina', 'Bradtke Nikko', 'Adams Luis', 'Lehner Matilde', 'Ortiz Anita', 'Koch Berry', 'Cartwright Nicolas', 'Fisher Elmo', 'Kunze Gertrude', 'Stanton Davin', "O'Conner Constantin", 'Runolfsdottir Roy', 'Rogahn Colby', 'Tromp Ryley', 'Hoppe Stanley', 'Shanahan Bethel', 'Hills Samanta', 'McGlynn Thad', 'Lynch Norma', 'Bahringer Lennie', 'Tillman Madison', 'Stoltenberg Donna']
+7.
+ A list of 25 modified names (see below for details)
+** PROGRAM SHUFFLED EACH TIME TO ENSURE UNIQUE 25 MODIFIED FULL NAMES, (Unomment line 96)
+
+************************
+ Modified names:
+ length:  13 
+ ['Stoltenberg Ryley', 'Lynch Nikko', 'Cartwright Anita', 'McGlynn Norma', 'Lang Stanley', 'Bahringer Gertrude', 'Adams Mariah', 'Tromp Mckenna', 'Lehner Roy', 'Runolfsdottir Luis', 'Shanahan Davin', 'Rogahn Thad', 'Graham Constantin']
+
+ ## ** Unique name set does not have enough modified names to produce 25 unique modified
+
