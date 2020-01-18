@@ -1,0 +1,106 @@
+<!--
+Mkhanyisi Gamedze
+Itlize Global Training
+11/01/2020
+-->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {background-color: lightyellow;}
+h1   {color: black;}
+fieldset {border-color: yellow;  
+		  border-style: solid;
+          padding:0;
+          border: 10px groove (solid);
+          border-width:6px} 
+          
+p    {color: red;}
+
+
+.alignment {
+	display: inline-block;
+    width: 110px;
+    margin-right: 20px;
+    text-align: right;
+}
+
+</style>
+
+<script>
+function previewFile() {
+  var preview = document.querySelector('img');
+  var file    = document.querySelector('input[type=file]').files[0];
+  var reader  = new FileReader();
+
+  reader.onloadend = function () {
+    preview.src = reader.result;
+  }
+
+  if (file) {
+    reader.readAsDataURL(file);
+  } else {
+    preview.src = "";
+  }
+}
+</script>
+
+
+</head>
+
+<body>  
+  
+<h1>Please Enter Your Details For Our Dating Website!</h1>
+
+<form>
+  
+  <fieldset><legend> Your Face </legend> 
+  <div >
+  <div class="alignment" >Your Image: </div><input type="file" onchange="previewFile()"  required><br>
+<img src="" height="100" alt="Preview Image:" > 
+	<div>
+  </fieldset><br />
+  
+  <fieldset>
+  
+  <legend> Your General Details </legend>
+   <div class="alignment">
+  Name: </div><input type="text" name="fullname" placeholder="Your Full Name" required/><br /> 
+  
+  <div class="alignment"> Gender: </div><input type="radio" name="gender" value="male"> Male
+<input type="radio" name="gender" value="female"> Female	
+
+  <br>
+  <div class="alignment"> Age: </div> <input type="number" placeholder="Age in Years" required/> <br /> 
+  <div class="alignment"> Date of birth: </div><input type="date" required/> <br /> 
+  <div class="alignment"> Favourite color: </div><input name="favcolor" type="color" value="#ff111" required/><br /> 
+  <div class="alignment"> Which Country: </div>
+  <select required>
+      <option value="Itlize">--</option>
+      <option value="Swaziland">Swaziland</option>
+      <option value="USA">USA</option>
+      <option value="UK">UK</option>
+      <option value="Canada">Canada</option>
+</select>
+</fieldset>
+</div> 
+ <br />
+  
+  <fieldset><legend> Your Indicators </legend> <div class="alignment" >Height: </div><input class="slider" max="100" min="1" type="range" value="50" required/> <br /> <div class="alignment" >Salary: </div><input class="slider" type="range" value="50" required/></fieldset><br />
+  
+  <fieldset><legend> Your Contact Information </legend>
+<div class="alignment" >
+ Email : </div> <input type="email" name="emailaddress" required> <br /> <div class="alignment" >Mobile: </div> <input type="tel" name="usrtel"  required/> <br /> <div class="alignment" > Address: </div> <textarea cols="40" rows="3" required></textarea>
+
+</fieldset>
+  
+<br>
+  <input type="submit">
+
+</form>
+  
+</body>
+</html>
