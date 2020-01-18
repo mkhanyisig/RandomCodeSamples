@@ -1,0 +1,71 @@
+{
+    "id": 9938,
+    "pubMedId": 27399335,
+    "title": "FBW7 mutations mediate resistance of colorectal cancer to targeted therapies by blocking Mcl-1 degradation.",
+    "url": "http://www.ncbi.nlm.nih.gov/pubmed/27399335",
+    "authors": "Tong J, Tan S, Zou F, Yu J, Zhang L",
+    "journal": "Oncogene",
+    "volume": "36",
+    "issue": "6",
+    "date": "2017 Feb 09",
+    "abstractText": "Colorectal cancer (CRC), the second leading cause of cancer-related deaths in the US, has been treated with targeted therapies. However, the mechanisms of differential responses and resistance of CRCs to targeted therapies are not well understood. In this study, we found that genetic alterations of FBW7, an E3 ubiquitin ligase and a tumor suppressor frequently mutated in CRCs, contribute to resistance to targeted therapies. CRC cells containing FBW7-inactivating mutations are insensitive to clinically used multi-kinase inhibitors of RAS/RAF/MEK/ERK signaling, including regorafenib and sorafenib. In contrast, sensitivity to these agents is not affected by oncogenic mutations in KRAS, BRAF, PIK3CA or p53. These cells are defective in apoptosis owing to blocked degradation of Mcl-1, a pro-survival Bcl-2 family protein. Deleting FBW7 in FBW7-wild-type CRC cells abolishes Mcl-1 degradation and recapitulates the in vitro and in vivo drug-resistance phenotypes of FBW7-mutant cells. CRC cells selected for regorafenib resistance have progressive enrichment of pre-existing FBW7 hotspot mutations, and are cross-resistant to other targeted drugs that induce Mcl-1 degradation. Furthermore, a selective Mcl-1 inhibitor restores regorafenib sensitivity in CRC cells with intrinsic or acquired resistance. Together, our results demonstrate FBW7 mutational status as a key genetic determinant of CRC response to targeted therapies, and Mcl-1 as an attractive therapeutic target.",
+    "drugs": [
+        
+    ],
+    "genes": [
+        
+    ],
+    "evidence": [
+        {
+            "id": 11965,
+            "approvalStatus": "Preclinical - Cell culture",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, colorectal cell lines with FBXW7 R505C demonstrated acquired resistance in regorafenib (PMID: 27399335).",
+            "molecularProfile": {
+                "id": 1040,
+                "profileName": "FBXW7 R505C"
+            },
+            "therapy": {
+                "id": 890,
+                "therapyName": "Regorafenib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 9256,
+                "name": "colorectal cancer",
+                "source": "DOID"
+            },
+            "responseType": "resistant",
+            "references": [
+                {
+                    "id": 9938,
+                    "pubMedId": 27399335,
+                    "title": "FBW7 mutations mediate resistance of colorectal cancer to targeted therapies by blocking Mcl-1 degradation.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/27399335"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        }
+    ],
+    "therapies": [
+        
+    ],
+    "treatmentApproaches": [
+        
+    ],
+    "variants": [
+        {
+            "id": 5424,
+            "fullName": "FBXW7 G517E",
+            "impact": "missense",
+            "proteinEffect": "unknown"
+        },
+        {
+            "id": 5425,
+            "fullName": "FBXW7 G579W",
+            "impact": "missense",
+            "proteinEffect": "unknown"
+        }
+    ]
+}

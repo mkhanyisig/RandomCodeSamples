@@ -1,0 +1,17 @@
+product,protein_effect,variant_count
+BOOST,gain of function,1370
+BOOST,gain of function - predicted,818
+BOOST,loss of function,1833
+BOOST,loss of function - predicted,3222
+BOOST,no effect,1335
+BOOST,no effect - predicted,1014
+BOOST,unknown,19649
+BOOST,unspecified/not applicable,6
+CORE,gain of function,724
+CORE,gain of function - predicted,618
+CORE,loss of function,673
+CORE,loss of function - predicted,1698
+CORE,no effect,283
+CORE,no effect - predicted,472
+CORE,unknown,6379
+CORE,unspecified/not applicable,1

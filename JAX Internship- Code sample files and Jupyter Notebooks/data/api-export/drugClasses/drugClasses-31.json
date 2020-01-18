@@ -1,0 +1,206 @@
+{
+    "id": 31,
+    "drugClass": "BRAF Inhibitor",
+    "createDate": "07/16/2014",
+    "drugs": [
+        {
+            "id": 8820,
+            "drugName": "ASN003",
+            "terms": [
+                "ASN003"
+            ]
+        },
+        {
+            "id": 8283,
+            "drugName": "SKLB646",
+            "terms": [
+                "SKLB646"
+            ]
+        },
+        {
+            "id": 8494,
+            "drugName": "PLX7904",
+            "terms": [
+                "PLX7904"
+            ]
+        },
+        {
+            "id": 8986,
+            "drugName": "EBI-907",
+            "terms": [
+                "EBI-907"
+            ]
+        },
+        {
+            "id": 7180,
+            "drugName": "PLX4720",
+            "terms": [
+                "PLX4720"
+            ]
+        },
+        {
+            "id": 8396,
+            "drugName": "SB590885",
+            "terms": [
+                "SB590885"
+            ]
+        },
+        {
+            "id": 7206,
+            "drugName": "GDC0879",
+            "terms": [
+                "GDC0879",
+                "GDC-0879"
+            ]
+        },
+        {
+            "id": 6803,
+            "drugName": "Regorafenib",
+            "terms": [
+                "Regorafenib",
+                "Stivarga",
+                "BAY 73-4506"
+            ]
+        },
+        {
+            "id": 6936,
+            "drugName": "Encorafenib",
+            "terms": [
+                "Encorafenib",
+                "Braftovi",
+                "LGX818"
+            ]
+        },
+        {
+            "id": 7160,
+            "drugName": "PLX8394",
+            "terms": [
+                "PLX8394"
+            ]
+        },
+        {
+            "id": 8325,
+            "drugName": "BGB-283",
+            "terms": [
+                "BGB-283"
+            ]
+        },
+        {
+            "id": 8216,
+            "drugName": "BI 882370",
+            "terms": [
+                "BI 882370",
+                "XP-102"
+            ]
+        },
+        {
+            "id": 7012,
+            "drugName": "RO5212054",
+            "terms": [
+                "RO5212054",
+                "PLX3603"
+            ]
+        },
+        {
+            "id": 7121,
+            "drugName": "RXDX-105",
+            "terms": [
+                "RXDX-105",
+                "AC013773",
+                "CEP-32496"
+            ]
+        },
+        {
+            "id": 9163,
+            "drugName": "RAF709",
+            "terms": [
+                "RAF709"
+            ]
+        },
+        {
+            "id": 9246,
+            "drugName": "Belvarafenib",
+            "terms": [
+                "Belvarafenib",
+                "GDC-5573",
+                "HM95573"
+            ]
+        },
+        {
+            "id": 6999,
+            "drugName": "RAF265",
+            "terms": [
+                "RAF265"
+            ]
+        },
+        {
+            "id": 6819,
+            "drugName": "Dabrafenib",
+            "terms": [
+                "Dabrafenib",
+                "Tafinlar",
+                "GSK2118436"
+            ]
+        },
+        {
+            "id": 8456,
+            "drugName": "LXH 254",
+            "terms": [
+                "LXH 254",
+                "LXH254"
+            ]
+        }
+    ],
+    "treatmentApproaches": [
+        {
+            "id": 2198,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600R"
+        },
+        {
+            "id": 14665,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600K"
+        },
+        {
+            "id": 14680,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600D"
+        },
+        {
+            "id": 474,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600X"
+        },
+        {
+            "id": 14660,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600L"
+        },
+        {
+            "id": 2188,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600M"
+        },
+        {
+            "id": 2193,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600Q"
+        },
+        {
+            "id": 14675,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600E/K"
+        },
+        {
+            "id": 1,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600E"
+        },
+        {
+            "id": 14670,
+            "name": "BRAF Inhibitor",
+            "profileName": "BRAF V600G"
+        }
+    ]
+}

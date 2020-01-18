@@ -1,0 +1,3899 @@
+{
+    "id": 25,
+    "geneSymbol": "ABL1",
+    "terms": [
+        "ABL1",
+        "ABL",
+        "bcr/abl",
+        "c-ABL",
+        "c-ABL1",
+        "CHDSKM",
+        "JTK7",
+        "p150",
+        "v-abl"
+    ],
+    "entrezId": 25,
+    "synonyms": [
+        "ABL",
+        "bcr/abl",
+        "c-ABL",
+        "c-ABL1",
+        "CHDSKM",
+        "JTK7",
+        "p150",
+        "v-abl"
+    ],
+    "chromosome": "9",
+    "mapLocation": "9q34.12",
+    "geneDescriptions": [
+        {
+            "description": "ABL1, ABL proto-oncogene 1, non-receptor tyrosine kinase, plays a role in regulation of cell growth through ERK5, Rac/JNK, and Stat1/3 pathways (PMID: 10373409). Fusion proteins of BCR-ABL1 resulting in constitutive kinase activity have been reported in various cancers (PMID: 18851712, PMID: 30125955) and a number of Abl1 mutations in the context of BCR-ABL1 have been demonstrated to confer drug resistance (PMID: 24456693).",
+            "references": [
+                {
+                    "id": 5511,
+                    "pubMedId": 24456693,
+                    "title": "BCR-ABL kinase domain mutations, including 2 novel mutations in imatinib resistant Malaysian chronic myeloid leukemia patients-Frequency and clinical outcome.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/24456693"
+                },
+                {
+                    "id": 9801,
+                    "pubMedId": 10373409,
+                    "title": "Signaling pathways activated by oncogenic forms of Abl tyrosine kinase.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/10373409"
+                },
+                {
+                    "id": 12229,
+                    "pubMedId": 30125955,
+                    "title": "Consensus on BCR-ABL1 reporting in chronic myeloid leukaemia in the UK.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/30125955"
+                },
+                {
+                    "id": 120,
+                    "pubMedId": 18851712,
+                    "title": "Cytoplasmic signalling by the c-Abl tyrosine kinase in normal and cancer cells.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/18851712"
+                }
+            ]
+        }
+    ],
+    "canonicalTranscript": "NM_005157",
+    "createDate": "05/26/2013",
+    "updateDate": "02/04/2019",
+    "clinicalTrials": [
+        {
+            "nctId": "NCT02795156",
+            "title": "Study to Assess the Activity of Molecularly Matched Targeted Therapies in Select Tumor Types Based on Genomic Alterations",
+            "phase": "Phase II",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 998,
+                    "therapyName": "Cabozantinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 623,
+                    "therapyName": "Afatinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 890,
+                    "therapyName": "Regorafenib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT02538926",
+            "title": "Etoposide, Prednisone, Vincristine Sulfate, Cyclophosphamide, and Doxorubicin Hydrochloride With Asparaginase in Treating Patients With Acute Lymphoblastic Leukemia or Lymphoblastic Lymphoma",
+            "phase": "Phase II",
+            "recruitment": "Withdrawn",
+            "therapies": [
+                {
+                    "id": 770,
+                    "therapyName": "Imatinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 897,
+                    "therapyName": "Rituximab",
+                    "synonyms": null
+                },
+                {
+                    "id": 1148,
+                    "therapyName": "Cyclophosphamide",
+                    "synonyms": null
+                },
+                {
+                    "id": 2188,
+                    "therapyName": "Prednisone",
+                    "synonyms": null
+                },
+                {
+                    "id": 3212,
+                    "therapyName": "Doxorubicin + Etoposide + Vincristine",
+                    "synonyms": null
+                },
+                {
+                    "id": 2206,
+                    "therapyName": "Asparaginase",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT03375307",
+            "title": "Olaparib in Treating Patients With Metastatic or Advanced Urothelial Cancer With DNA-Repair Defects",
+            "phase": "Phase II",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 837,
+                    "therapyName": "Olaparib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT02730195",
+            "title": "Pioglitazone and Tyrosine Kinase Inhibitor in Treating Patients With Relapsed Chronic Myeloid Leukemia",
+            "phase": "Phase II",
+            "recruitment": "Terminated",
+            "therapies": [
+                {
+                    "id": 3125,
+                    "therapyName": "Pioglitazone",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT03297606",
+            "title": "Canadian Profiling and Targeted Agent Utilization Trial (CAPTUR) (CAPTUR)",
+            "phase": "Phase II",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 690,
+                    "therapyName": "Bosutinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 850,
+                    "therapyName": "Palbociclib",
+                    "synonyms": null
+                },
+                {
+                    "id": 956,
+                    "therapyName": "Vismodegib",
+                    "synonyms": null
+                },
+                {
+                    "id": 1627,
+                    "therapyName": "Ipilimumab + Nivolumab",
+                    "synonyms": null
+                },
+                {
+                    "id": 1657,
+                    "therapyName": "Cobimetinib + Vemurafenib",
+                    "synonyms": null
+                },
+                {
+                    "id": 936,
+                    "therapyName": "Temsirolimus",
+                    "synonyms": null
+                },
+                {
+                    "id": 837,
+                    "therapyName": "Olaparib",
+                    "synonyms": null
+                },
+                {
+                    "id": 4,
+                    "therapyName": "Erlotinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 706,
+                    "therapyName": "Crizotinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 930,
+                    "therapyName": "Sunitinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 623,
+                    "therapyName": "Afatinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 717,
+                    "therapyName": "Dasatinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 1389,
+                    "therapyName": "Pertuzumab + Trastuzumab",
+                    "synonyms": null
+                },
+                {
+                    "id": 649,
+                    "therapyName": "Axitinib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT02228382",
+            "title": "Safety And Efficacy Study Of Bosutinib In Patients With Philadelphia Chromosome Positive Chronic Myeloid Leukemia Previously Treated With One Or More Tyrosine Kinase Inhibitors",
+            "phase": "FDA approved",
+            "recruitment": "Active, not recruiting",
+            "therapies": [
+                {
+                    "id": 690,
+                    "therapyName": "Bosutinib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT02311998",
+            "title": "Phase I/II Study of Bosutinib in Combination With Inotuzumab Ozogamicin in CD22-positive Philadelphia-Chromosome (PC) Positive Acute Lymphoblastic Leukemia (ALL) and Chronic Myeloid Leukemia (CML)",
+            "phase": "Phase Ib/II",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 3200,
+                    "therapyName": "Bosutinib + inotuzumab ozogamicin",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT02782403",
+            "title": "Axitinib and Bosutinib for Patients With Chronic Myeloid Leukemia in Chronic, Accelerated or Blastic Phases",
+            "phase": "Phase Ib/II",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 4241,
+                    "therapyName": "Axitinib + Bosutinib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT03106779",
+            "title": "Study of Efficacy of CML-CP Patients Treated With ABL001 Versus Bosutinib, Previously Treated With 2 or More TKIs",
+            "phase": "Phase III",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 690,
+                    "therapyName": "Bosutinib",
+                    "synonyms": null
+                },
+                {
+                    "id": 2484,
+                    "therapyName": "Asciminib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT01744665",
+            "title": "Safety and Efficacy of CML Patients Who Switch to Nilotinib and Stop Treatment After Achieving and Sustaining MR4.5. (ENESTgoal)",
+            "phase": "Phase II",
+            "recruitment": "Active, not recruiting",
+            "therapies": [
+                {
+                    "id": 829,
+                    "therapyName": "Nilotinib",
+                    "synonyms": null
+                }
+            ]
+        },
+        {
+            "nctId": "NCT02272998",
+            "title": "Ponatinib for Patients Whose Advanced Solid Tumor Cancer Has Activating Mutations Involving the Following Genes: FGFR1, FGFR2, FGFR3, FGFR4, RET, KIT.",
+            "phase": "Phase II",
+            "recruitment": "Recruiting",
+            "therapies": [
+                {
+                    "id": 877,
+                    "therapyName": "Ponatinib",
+                    "synonyms": null
+                }
+            ]
+        }
+    ],
+    "evidence": [
+        {
+            "id": 11048,
+            "approvalStatus": "Case Reports/Case Series",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a clinical case study, Tasigna (nilotinib) treatment resulted in no benefit in a patient with oral cavity cancer harboring ABL1 G250R and G251D (PMID: 28514312).",
+            "molecularProfile": {
+                "id": 27899,
+                "profileName": "ABL1 G250R ABL1 G251D"
+            },
+            "therapy": {
+                "id": 829,
+                "therapyName": "Nilotinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 8618,
+                "name": "oral cavity cancer",
+                "source": "DOID"
+            },
+            "responseType": "no benefit",
+            "references": [
+                {
+                    "id": 9046,
+                    "pubMedId": 28514312,
+                    "title": "Treatment inferred from mutations identified using massive parallel sequencing leads to clinical benefit in some heavily pretreated cancer patients.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/28514312"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        },
+        {
+            "id": 7335,
+            "approvalStatus": "Preclinical",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, Gleevec (imatinib) inhibited growth of a lung adenocarcinoma cell line harboring ABL1 G321L (also reported as G340L) in culture (PMID: 26758680).",
+            "molecularProfile": {
+                "id": 25109,
+                "profileName": "ABL1 G321L"
+            },
+            "therapy": {
+                "id": 770,
+                "therapyName": "Imatinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 3910,
+                "name": "lung adenocarcinoma",
+                "source": "DOID"
+            },
+            "responseType": "sensitive",
+            "references": [
+                {
+                    "id": 6310,
+                    "pubMedId": 26758680,
+                    "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        },
+        {
+            "id": 7338,
+            "approvalStatus": "Preclinical",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, treatment with Sprycel (dasatinib) in decreased CRKL phosphorylation and reduced viability of lung adenocarcinoma cells harboring ABL1 G321L (also reported as G340L) in culture (PMID: 26758680).",
+            "molecularProfile": {
+                "id": 25109,
+                "profileName": "ABL1 G321L"
+            },
+            "therapy": {
+                "id": 717,
+                "therapyName": "Dasatinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 3910,
+                "name": "lung adenocarcinoma",
+                "source": "DOID"
+            },
+            "responseType": "sensitive",
+            "references": [
+                {
+                    "id": 6310,
+                    "pubMedId": 26758680,
+                    "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        },
+        {
+            "id": 7337,
+            "approvalStatus": "Preclinical",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, treatment with Sprycel (dasatinib) in decreased CRKL phosphorylation and reduced viability of lung adenocarcinoma cells harboring ABL1 R332W (also reported as R351W) in culture (PMID: 26758680).",
+            "molecularProfile": {
+                "id": 25102,
+                "profileName": "ABL1 R332W"
+            },
+            "therapy": {
+                "id": 717,
+                "therapyName": "Dasatinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 3910,
+                "name": "lung adenocarcinoma",
+                "source": "DOID"
+            },
+            "responseType": "sensitive",
+            "references": [
+                {
+                    "id": 6310,
+                    "pubMedId": 26758680,
+                    "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        },
+        {
+            "id": 7334,
+            "approvalStatus": "Preclinical - Cell line xenograft",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, Gleevec (imatinib) inhibited growth of a lung adenocarcinoma cell line harboring ABL1 R332W (also reported as R351W) in culture, and inhibited tumor growth in xenograft models (PMID: 26758680).",
+            "molecularProfile": {
+                "id": 25102,
+                "profileName": "ABL1 R332W"
+            },
+            "therapy": {
+                "id": 770,
+                "therapyName": "Imatinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 3910,
+                "name": "lung adenocarcinoma",
+                "source": "DOID"
+            },
+            "responseType": "sensitive",
+            "references": [
+                {
+                    "id": 6310,
+                    "pubMedId": 26758680,
+                    "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        },
+        {
+            "id": 7336,
+            "approvalStatus": "Preclinical - Cell line xenograft",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, lung adenocarcinoma cells harboring ABL1 R332W (also reported as R351W) and expressing ABL1 T315I demonstrated resistance to Gleevec (imatinib) in culture and in xenograft models (PMID: 26758680).",
+            "molecularProfile": {
+                "id": 25103,
+                "profileName": "ABL1 R332W ABL1 T315I"
+            },
+            "therapy": {
+                "id": 770,
+                "therapyName": "Imatinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 3910,
+                "name": "lung adenocarcinoma",
+                "source": "DOID"
+            },
+            "responseType": "resistant",
+            "references": [
+                {
+                    "id": 6310,
+                    "pubMedId": 26758680,
+                    "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        },
+        {
+            "id": 7339,
+            "approvalStatus": "Preclinical",
+            "evidenceType": "Actionable",
+            "efficacyEvidence": "In a preclinical study, lung adenocarcinoma cells harboring ABL1 R332W (also reported as R351W) and expressing ABL1 T315I demonstrated resistance to Sprycel (dasatinib) in culture (PMID: 26758680).",
+            "molecularProfile": {
+                "id": 25103,
+                "profileName": "ABL1 R332W ABL1 T315I"
+            },
+            "therapy": {
+                "id": 717,
+                "therapyName": "Dasatinib",
+                "synonyms": null
+            },
+            "indication": {
+                "id": 3910,
+                "name": "lung adenocarcinoma",
+                "source": "DOID"
+            },
+            "responseType": "resistant",
+            "references": [
+                {
+                    "id": 6310,
+                    "pubMedId": 26758680,
+                    "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                }
+            ],
+            "ampCapAscoEvidenceLevel": "D",
+            "ampCapAscoInferredTier": "II"
+        }
+    ],
+    "variants": [
+        {
+            "id": 26409,
+            "fullName": "ABL1 P465S",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 P465S lies within the protein kinase domain of the Abl1 protein (UniProt.org). P465S has been demonstrated to confer resistance to allosteric Abl1 inhibitors (PMID: 25849130, PMID: 27890928) and results in increased kinase activity and transformation in cultured cells (PMID: 27890928).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 1250,
+                            "pubMedId": 23811600,
+                            "title": "Chaperones as thermodynamic sensors of drug-target interactions reveal kinase inhibitor specificities in living cells.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/23811600"
+                        },
+                        {
+                            "id": 11532,
+                            "pubMedId": 27890928,
+                            "title": "Identification and characterization of activating ABL1 1b kinase mutations: impact on sensitivity to ATP-competitive and allosteric ABL1 inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/27890928"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27596,
+            "fullName": "ABL1 F317V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F317V lies within the protein kinase domain of the Abl1 protein (UniProt.org). F317V has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL1 (PMID: 23044928, PMID: 15705718), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 11533,
+                            "pubMedId": 15705718,
+                            "title": "Comparative analysis of two clinically active BCR-ABL kinase inhibitors reveals the role of conformation-specific binding in resistance.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/15705718"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11093,
+                            "pubMedId": 23044928,
+                            "title": "Three novel patient-derived BCR/ABL mutants show different sensitivity to second and third generation tyrosine kinase inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/23044928"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22551,
+            "fullName": "ABL1 I432M",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 I432M lies within the protein kinase domain of the Abl1 protein (UniProt.org). I432M has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22498,
+            "fullName": "ABL1 E355A",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E355A lies within the protein kinsase domain of the Abl1 protein (UniProt.org). E355A has been identified as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 24456693), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 5511,
+                            "pubMedId": 24456693,
+                            "title": "BCR-ABL kinase domain mutations, including 2 novel mutations in imatinib resistant Malaysian chronic myeloid leukemia patients-Frequency and clinical outcome.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/24456693"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13375,
+            "fullName": "ABL1 H295_P296insH",
+            "impact": "insertion",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 H295_P296insH results in the insertion of one amino acid in the protein kinase domain of the Abl1 protein between amino acids 295 and 296 (UniProt.org). H295_P296insH has been identified in sequencing studies (PMID: 21442193), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).\r\n",
+                    "references": [
+                        {
+                            "id": 7905,
+                            "pubMedId": 21442193,
+                            "title": "Imatinib resistance and blast transformation of chronic myeloid leukemia associated with a novel tri-nucleotide insertion mutation of BCR-ABL kinase domain at position K294.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21442193"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22543,
+            "fullName": "ABL1 K262N",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 K262N lies within the protein kinase domain of the Abl1 protein (UniProt.org). K262N has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13365,
+            "fullName": "ABL1 E255V",
+            "impact": "missense",
+            "proteinEffect": "loss of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E255V lies within the protein kinase domain of the Abl1 protein (UniProt.org). E255V results in decreased enzymatic efficiency (kcat/Km) compared to wild-type Abl1 in an in vitro kinase assay (PMID: 30684523), and has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 15710326), and therefore, is predicted to lead to a loss of Abl1 protein function.",
+                    "references": [
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11536,
+                            "pubMedId": 15710326,
+                            "title": "Characterization of AMN107, a selective inhibitor of native and mutant Bcr-Abl.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/15710326"
+                        },
+                        {
+                            "id": 14163,
+                            "pubMedId": 30684523,
+                            "title": "The catalytic activity of Abl1 single and compound mutations: Implications for the mechanism of drug resistance mutations in chronic myeloid leukaemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30684523"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22550,
+            "fullName": "ABL1 E281K",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E281K lies within the protein kinase domain of the Abl1 protein (UniProt.org). E281K has been associated with drug resistance in the context of BCR-ABL (PMID: 21193419), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5538,
+                            "pubMedId": 21193419,
+                            "title": "Philadelphia-positive acute lymphoblastic leukemia patients already harbor BCR-ABL kinase domain mutations at low levels at the time of diagnosis.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21193419"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26425,
+            "fullName": "ABL1 G250H",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 G250H lies within the protein kinase domain of the Abl1 protein (UniProt.org). G250H has been identified in the scientific literature (PMID: 28329763), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Nov 2018).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 8633,
+                            "pubMedId": 28329763,
+                            "title": "The allosteric inhibitor ABL001 enables dual targeting of BCR-ABL1.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28329763"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22404,
+            "fullName": "ABL1 G250W",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 G250W lies within the protein kinase domain of the Abl1 protein (UniProt.org). G250W has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22553,
+            "fullName": "ABL1 V379I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 V379I lies within the protein kinase domain of the Abl1 protein (UniProt.org). V379I has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 28467002), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11531,
+                            "pubMedId": 28467002,
+                            "title": "The use of Imatinib resistance mutation analysis to direct therapy in Philadelphia chromosome/BCR-ABL1 positive chronic myeloid leukaemia patients failing Imatinib treatment, in Patan Hospital, Nepal.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28467002"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22548,
+            "fullName": "ABL1 E279W",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E279W lies within the protein kinase domain of the Abl1 protein (UniProt.org). E279W has not been characterized in the scientific literature and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22546,
+            "fullName": "ABL1 R362T",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 R362T lies within the protein kinase domain of the Abl1 protein (UniProt.org). R362T has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16904,
+            "fullName": "ABL1 R239C",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 R239C does not lie within any known functional domains of the Abl1 protein (UniProt.org). R239C has been identified in sequencing studies (PMID: 29269125), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13390,
+            "fullName": "ABL1 S417Y",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 S417Y lies within the protein kinase domain of the Abl1 protein (UniProt.org). S417Y has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 30082224), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 14495,
+                            "pubMedId": 30082224,
+                            "title": "Comparison of Frequency and Sensitivity of BCR-ABL1 Kinase Domain Mutations in Asian and White Patients With Imatinib-resistant Chronic-Phase Chronic Myeloid Leukemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30082224"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26636,
+            "fullName": "ABL1 G251D",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 G251D lies within the protein kinase domain of the Abl1 protein (UniProt.org). G251D has been identified in the scientific literature (PMID: 17947479), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019). ",
+                    "references": [
+                        {
+                            "id": 9045,
+                            "pubMedId": 17947479,
+                            "title": "A half-log increase in BCR-ABL RNA predicts a higher risk of relapse in patients with chronic myeloid leukemia with an imatinib-induced complete cytogenetic response.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/17947479"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13378,
+            "fullName": "ABL1 I242M",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 I242M lies within the protein kinase domain of the Abl1 protein (UniProt.org). I242M does not result in expression of the Abl1 protein or phosphorylation of the downstream signaling molecule, Crkl, in vitro (PMID: 26758680), but has not been fully biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 6310,
+                            "pubMedId": 26758680,
+                            "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22400,
+            "fullName": "ABL1 E450G",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E450G lies within the protein kinase domain of the Abl1 protein (UniProt.org). E450G has been identified in sequencing studies (PMID: 20512393, PMID: 30082224), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 7904,
+                            "pubMedId": 20512393,
+                            "title": "Rapid and sensitive allele-specific (AS)-RT-PCR assay for detection of T315I mutation in chronic myeloid leukemia patients treated with tyrosine-kinase inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/20512393"
+                        },
+                        {
+                            "id": 14495,
+                            "pubMedId": 30082224,
+                            "title": "Comparison of Frequency and Sensitivity of BCR-ABL1 Kinase Domain Mutations in Asian and White Patients With Imatinib-resistant Chronic-Phase Chronic Myeloid Leukemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30082224"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13366,
+            "fullName": "ABL1 E279K",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E279K lies within the protein kinase domain of the Abl1 protein (UniProt.org). E279K has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 16754879), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11537,
+                            "pubMedId": 16754879,
+                            "title": "Activity of dual SRC-ABL inhibitors highlights the role of BCR/ABL kinase dynamics in drug resistance.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16754879"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13380,
+            "fullName": "ABL1 L384M",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 L384M lies within the protein kinase domain of the Abl1 protein (UniProt.org). L384M has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13376,
+            "fullName": "ABL1 H396P",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 H396P lies within the protein kinase domain of the Abl1 protein (UniProt.org). H396P is predicted to lead to activation of Abl1 in structural analyses, and is associated Abl1 inhibitor resistance (PMID: 16424036, PMID: 21481795), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed Mar 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3830,
+                            "pubMedId": 16424036,
+                            "title": "Structure of the kinase domain of an imatinib-resistant Abl mutant in complex with the Aurora kinase inhibitor VX-680.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16424036"
+                        },
+                        {
+                            "id": 1865,
+                            "pubMedId": 21481795,
+                            "title": "Conformational control inhibition of the BCR-ABL1 tyrosine kinase, including the gatekeeper T315I mutant, by the switch-control inhibitor DCC-2036.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21481795"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13369,
+            "fullName": "ABL1 F311L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F311L lies within the protein kinase domain of the Abl1 protein (UniProt.org). F311L has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28657,
+            "fullName": "ABL1 R362fs",
+            "impact": "frameshift",
+            "proteinEffect": "loss of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 R362fs results in a change in the amino acid sequence of the Abl1 protein beginning at aa 362 of 1130, likely resulting in premature truncation of the functional protein (UniProt.org). Due to the loss of a portion of the protein kinase domain (UniProt.org), R362fs is predicted to lead to a loss of Abl1 protein function.",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24370,
+            "fullName": "ABL1 R332W",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 R332W (corresponding to R351W in isoform IB) lies within the protein kinase domain of the Abl1 protein (UniProt.org). R332W results in increased Abl1 kinase activity, as demonstrated by modest increase in CRKL phosphorylation, and increased cytoplasmic retention of Abl1 in cell culture (PMID: 26758680).",
+                    "references": [
+                        {
+                            "id": 6310,
+                            "pubMedId": 26758680,
+                            "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26412,
+            "fullName": "ABL1 V468F",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 V468F lies within the protein kinase domain of the Abl1 protein (UniProt.org). V468F has been demonstrated to confer resistance to allosteric Abl1 inhibitors (PMID: 28329763, PMID: 27890928) and results in increased kinase activity and transformation in cultured cells (PMID: 27890928).",
+                    "references": [
+                        {
+                            "id": 8633,
+                            "pubMedId": 28329763,
+                            "title": "The allosteric inhibitor ABL001 enables dual targeting of BCR-ABL1.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28329763"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11532,
+                            "pubMedId": 27890928,
+                            "title": "Identification and characterization of activating ABL1 1b kinase mutations: impact on sensitivity to ATP-competitive and allosteric ABL1 inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/27890928"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13388,
+            "fullName": "ABL1 Q346L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 Q346L lies within the protein kinase domain of the Abl1 protein (UniProt.org). Q346L has been identified in the scientific literature (PMID: 21762985), but has not been biochemically characterized, and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 14553,
+                            "pubMedId": 21762985,
+                            "title": "Low-level Bcr-Abl mutations are very rare in chronic myeloid leukemia patients who are in major molecular response on first-line nilotinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21762985"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13381,
+            "fullName": "ABL1 L387M",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 L387M lies within the protein kinase domain of the Abl1 protein (UniProt.org). L387M has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 28451802), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 14494,
+                            "pubMedId": 28451802,
+                            "title": "Clinical characteristics of patients with central nervous system relapse in BCR-ABL1-positive acute lymphoblastic leukemia: the importance of characterizing ABL1 mutations in cerebrospinal fluid.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28451802"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5567,
+            "fullName": "ABL1 E255K",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E255K lies within the protein kinase domain of the Abl1 protein (UniProt.org). E255K has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL and results in both increased kinase activity and phosphorylation of STAT5 (PMID: 15194504).",
+                    "references": [
+                        {
+                            "id": 2626,
+                            "pubMedId": 15194504,
+                            "title": "The two major imatinib resistance mutations E255K and T315I enhance the activity of BCR/ABL fusion kinase.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/15194504"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13368,
+            "fullName": "ABL1 F311I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F311I lies within the protein kinase domain of the Abl1 protein (UniProt.org). F311I has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22405,
+            "fullName": "ABL1 E459K",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E459K lies within the protein kinase domain of the Abl1 protein (UniProt.org). E459K has been identified as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 19201023, PMID: 28657534), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5487,
+                            "pubMedId": 19201023,
+                            "title": "Structural modeling of V299L and E459K Bcr-Abl mutation, and sequential therapy of tyrosine kinase inhibitors for the compound mutations.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/19201023"
+                        },
+                        {
+                            "id": 11529,
+                            "pubMedId": 28657534,
+                            "title": "[Mutations in the BCR-ABL1 gene in a peruvian patient with acute lymphoblastic leukemia resistant to therapy].",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28657534"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13377,
+            "fullName": "ABL1 H396R",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 H396R lies within the protein kinase domain of the Abl1 protein (UniProt.org). H396R has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 28467002), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11531,
+                            "pubMedId": 28467002,
+                            "title": "The use of Imatinib resistance mutation analysis to direct therapy in Philadelphia chromosome/BCR-ABL1 positive chronic myeloid leukaemia patients failing Imatinib treatment, in Patan Hospital, Nepal.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28467002"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1614,
+            "fullName": "ABL1 K605del",
+            "impact": "deletion",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 K605del (also reported as K624del in isoform IB) results in the deletion of an amino acid in the nuclear localization signal motif 1 of the Abl1 protein at amino acid 605 (UniProt.org). K605del has not been characterized in the scientific literature and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22544,
+            "fullName": "ABL1 M237R",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 M237R does not lie within any known functional domains of the Abl1 protein (UniProt.org). M237R has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29339,
+            "fullName": "ABL1 Y440C",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 Y440C lies within the protein kinase domain of the Abl1 protein (UniProt.org). Y440C has been identified in the scientific literature (PMID: 30584318), but has not been biochemically characterized and therefore, its effect on ABL1 protein function is unknown (PubMed, Feb 2019).",
+                    "references": [
+                        {
+                            "id": 14104,
+                            "pubMedId": 30584318,
+                            "title": "A novel BCR-ABL1 mutation in a patient with Philadelphia chromosome-positive B-cell acute lymphoblastic leukemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30584318"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3783,
+            "fullName": "ABL1 V299L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 V299L lies within the protein kinase domain of the Abl1 protein (UniProt.org). ABL1 V299L has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 18242697, PMID: 23086624, PMID: 30419862), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 14489,
+                            "pubMedId": 30419862,
+                            "title": "Finding the right BCR-ABL1 tyrosine kinase inhibitor: a case report of successful treatment of a patient with chronic myeloid leukemia and a V299L mutation using nilotinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30419862"
+                        },
+                        {
+                            "id": 2209,
+                            "pubMedId": 18242697,
+                            "title": "Tailoring tyrosine kinase inhibitor therapy to tackle specific BCR-ABL1 mutant clones.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/18242697"
+                        },
+                        {
+                            "id": 2210,
+                            "pubMedId": 23086624,
+                            "title": "Characteristics and outcomes of patients with V299L BCR-ABL kinase domain mutation after therapy with tyrosine kinase inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/23086624"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22403,
+            "fullName": "ABL1 P310L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 P310L lies within the protein kinase domain of the Abl1 protein (UniProt.org). P310L has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22547,
+            "fullName": "ABL1 Y456C",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 Y456C lies within the protein kinase domain of the Abl1 protein (UniProt.org). Y456C has been identified in the scientific literature (PMID: 23355941, PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 1112,
+                            "pubMedId": 23355941,
+                            "title": "Contribution of BCR-ABL kinase domain mutations to imatinib mesylate resistance in Philadelphia chromosome positive Malaysian chronic myeloid leukemia patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/23355941"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2614,
+            "fullName": "ABL1 S972L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 S972L lies in the F-actin-binding region of the Abl1 protein (UniProt.org). S972L has been identified in sequencing studies (PMID: PMID: 25082755) but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 10210,
+                            "pubMedId": 25082755,
+                            "title": "Cell-cycle reprogramming for PI3K inhibition overrides a relapse-specific C481S BTK mutation revealed by longitudinal functional genomics in mantle cell lymphoma.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/25082755"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24376,
+            "fullName": "ABL1 G321L",
+            "impact": "missense",
+            "proteinEffect": "gain of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 G321L (corresponding to G340L in isoform IB) lies within the protein kinase domain of the Abl1 protein (UniProt.org). G321L does not result in increased phosphorylation of CRKL by Abl1, but leads to increased cytoplasmic Abl1 retention and is associated with increased cell survival in culture, and is predicted to lead to a gain of Abl1 function (PMID: 26758680).",
+                    "references": [
+                        {
+                            "id": 6310,
+                            "pubMedId": 26758680,
+                            "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26758680"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 426,
+            "fullName": "ABL1 wild-type",
+            "impact": "none",
+            "proteinEffect": "no effect",
+            "geneVariantDescriptions": [
+                {
+                    "description": "Wild-type ABL1 indicates that no mutation has been detected within the ABL1 gene.",
+                    "references": [
+                        {
+                            "id": 275,
+                            "pubMedId": 10,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13364,
+            "fullName": "ABL1 D276G",
+            "impact": "missense",
+            "proteinEffect": "gain of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 D276G lies within the protein kinase domain of the Abl1 protein (UniProt.org). D276G has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL and results in increased kinase activity (PMID: 15510211) and therefore, is predicted to confer a gain of function to the Abl1 protein.",
+                    "references": [
+                        {
+                            "id": 3827,
+                            "pubMedId": 15510211,
+                            "title": "Evidence for D276G and L364I Bcr-Abl mutations in Ph+ leukaemic cells obtained from patients resistant to Imatinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/15510211"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3015,
+            "fullName": "ABL1 act mut",
+            "impact": "unknown",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 act mut indicates that this variant results in a gain of function in the ABL1 protein. However, the specific amino acid change has not been identified.",
+                    "references": [
+                        {
+                            "id": 275,
+                            "pubMedId": 10,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13391,
+            "fullName": "ABL1 T315L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 T315L lies within the protein kinase domain of the Abl1 protein (UniProt.org). T315L has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 27813432), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 11526,
+                            "pubMedId": 27813432,
+                            "title": "T315L: a novel mutation within BCR-ABL kinase domain confers resistance against ponatinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/27813432"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27598,
+            "fullName": "ABL1 F317I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F317I lies within the protein kinase domain of the Abl1 protein (UniProt.org). F317I has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL1 and another secondary drug resistance mutation (PMID: 25132497), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 11094,
+                            "pubMedId": 25132497,
+                            "title": "BCR-ABL1 compound mutations combining key kinase domain positions confer clinical resistance to ponatinib in Ph chromosome-positive leukemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/25132497"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26635,
+            "fullName": "ABL1 G250R",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 G250R lies within the protein kinase domain of the Abl1 protein (UniProt.org). G250R has been identified in the scientific literature (PMID: 17982022, PMID: 28801986), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2018). ",
+                    "references": [
+                        {
+                            "id": 14602,
+                            "pubMedId": 28801986,
+                            "title": "Persistent detection of alternatively spliced BCR-ABL variant results in a failure to achieve deep molecular response.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28801986"
+                        },
+                        {
+                            "id": 10979,
+                            "pubMedId": 17982022,
+                            "title": "In vivo kinetics of kinase domain mutations in CML patients treated with dasatinib after failing imatinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/17982022"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13386,
+            "fullName": "ABL1 P980L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 P980L lies within the F-actin-binding region of the Abl1 protein (UniProt.org). P980L has not been characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26423,
+            "fullName": "ABL1 P223S",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 P223S does not lie within any known functional domains of the Abl1 protein (UniProt.org). P223S has been demonstrated to confer resistance to allosteric Abl1 inhibitors (PMID: 28329763), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 8633,
+                            "pubMedId": 28329763,
+                            "title": "The allosteric inhibitor ABL001 enables dual targeting of BCR-ABL1.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28329763"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13371,
+            "fullName": "ABL1 F359I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F359I lies within the protein kinase domain of the Abl1 protein (UniProt.org). F359I has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13373,
+            "fullName": "ABL1 F359V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F359V lies within the protein kinase domain of the Abl1 protein (UniProt.org). F359V has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 16046538, PMID: 21562040, PMID: 30711891), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 14493,
+                            "pubMedId": 30711891,
+                            "title": "A kinase profile-adapted drug combination elicits synergistic cooperative effects on leukemic cells carrying BCR-ABL1T315I in Ph+ CML.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30711891"
+                        },
+                        {
+                            "id": 5631,
+                            "pubMedId": 16046538,
+                            "title": "Inhibition of drug-resistant mutants of ABL, KIT, and EGF receptor kinases.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16046538"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22540,
+            "fullName": "ABL1 C475W",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 C475W lies within the protein kinase domain of the Abl1 protein (UniProt.org). C457W has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019). ",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5568,
+            "fullName": "ABL1 over exp",
+            "impact": "none",
+            "proteinEffect": "no effect",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 over exp indicates an over expression of the Abl1 protein and/or mRNA. However, the mechanism causing the over expression is unspecified.",
+                    "references": [
+                        {
+                            "id": 275,
+                            "pubMedId": 10,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13387,
+            "fullName": "ABL1 Q252H",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 Q252H lies within the protein kinase domain of the Abl1 protein (UniProt.org). Q252H results in a loss of inhibitor binding and has also been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 16046538, PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 5631,
+                            "pubMedId": 16046538,
+                            "title": "Inhibition of drug-resistant mutants of ABL, KIT, and EGF receptor kinases.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16046538"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26096,
+            "fullName": "ABL1 E308*",
+            "impact": "nonsense",
+            "proteinEffect": "loss of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E308* results in a premature truncation of the Abl1 protein at amino acid 308 of 1149 (UniProt.org). Due the loss of multiple functional domains, including the DNA-binding domain (UniProt.org), E308* is predicted to result in a loss of Abl1 protein function.",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13395,
+            "fullName": "ABL1 Y253F",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 Y253F lies within the protein kinase domain of the Abl1 protein (UniProt.org). Y253F has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL and results in increased kinase activity and enhanced cell proliferation in culture (PMID: 16880519, PMID: 24487968).",
+                    "references": [
+                        {
+                            "id": 3834,
+                            "pubMedId": 16880519,
+                            "title": "Kinase domain mutants of Bcr-Abl exhibit altered transformation potency, kinase activity, and substrate utilization, irrespective of sensitivity to imatinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16880519"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11527,
+                            "pubMedId": 24487968,
+                            "title": "Curcumin derivative C817 inhibits proliferation of imatinib-resistant chronic myeloid leukemia cells with wild-type or mutant Bcr-Abl in vitro.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/24487968"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22402,
+            "fullName": "ABL1 E507G",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E507G does not lie within any known functional domains of the Abl1 protein (UniProt.org). E507G has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26252,
+            "fullName": "ABL1 P918S",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 P918S lies within the DNA-binding region of the Abl1 protein (UniProt.org). P918S has been identified in the scientific literature (PMID: 27900369), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 8396,
+                            "pubMedId": 27900369,
+                            "title": "Genomic profiling of multiple sequentially acquired tumor metastatic sites from an \"exceptional responder\" lung adenocarcinoma patient reveals extensive genomic heterogeneity and novel somatic variants driving treatment response.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/27900369"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13383,
+            "fullName": "ABL1 M351T",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 M351T lies within the protein kinase domain of the Abl1 protein (UniProt.org). M351T results in a loss of inhibitor binding and has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 16046538, PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 5631,
+                            "pubMedId": 16046538,
+                            "title": "Inhibition of drug-resistant mutants of ABL, KIT, and EGF receptor kinases.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16046538"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22552,
+            "fullName": "ABL1 R386M",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 R386M lies within the protein kinase domain of the Abl1 protein (UniProt.org). R386M has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22539,
+            "fullName": "ABL1 A287V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 A287V lies within the protein kinase domain of the Abl1 protein (UniProt.org). A287V has been identified in the scientific literature (PMID: 26603839, PMID: 28990873), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 14488,
+                            "pubMedId": 28990873,
+                            "title": "Third-line treatment with second-generation tyrosine kinase inhibitors (dasatinib or nilotinib) in patients with chronic myeloid leukemia after two prior TKIs: real-life data on a single center experience along with the review of the literature.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28990873"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22542,
+            "fullName": "ABL1 E282D",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E282D lies within the protein kinase domain of the Abl1 protein (UniProt.org). E282D has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26413,
+            "fullName": "ABL1 I502L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 I502L does not lie within any known functional domains of the Abl1 protein (UniProt.org). I502L has been demonstrated to confer resistance to allosteric Abl1 inhibitors (PMID: 28329763), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 8633,
+                            "pubMedId": 28329763,
+                            "title": "The allosteric inhibitor ABL001 enables dual targeting of BCR-ABL1.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28329763"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 480,
+            "fullName": "ABL1 T315I",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 T315I is a gatekeeper mutation that lies within the hinge region of the protein kinase domain of the Abl1 protein (PMID: 18794843). T315I has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL and results in increased kinase activity and transformation in cultured cells (PMID: 11423618, PMID: 18794843, PMID: 27890928).",
+                    "references": [
+                        {
+                            "id": 644,
+                            "pubMedId": 18794843,
+                            "title": "Activation of tyrosine kinases by mutation of the gatekeeper threonine.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/18794843"
+                        },
+                        {
+                            "id": 2379,
+                            "pubMedId": 11423618,
+                            "title": "Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/11423618"
+                        },
+                        {
+                            "id": 11532,
+                            "pubMedId": 27890928,
+                            "title": "Identification and characterization of activating ABL1 1b kinase mutations: impact on sensitivity to ATP-competitive and allosteric ABL1 inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/27890928"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22497,
+            "fullName": "ABL1 F359C",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F359C lies within the protein kinase domain of the Abl1 protein (UniProt.org). F359C has been identified as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 19798095, PMID: 26773037), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 5510,
+                            "pubMedId": 19798095,
+                            "title": "Choosing the best treatment strategy for chronic myeloid leukemia patients resistant to imatinib: weighing the efficacy and safety of individual drugs with BCR-ABL mutations and patient history.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/19798095"
+                        },
+                        {
+                            "id": 11530,
+                            "pubMedId": 26773037,
+                            "title": "The impact of multiple low-level BCR-ABL1 mutations on response to ponatinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26773037"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13397,
+            "fullName": "ABL1 Y253H",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 Y253H lies within the protein kinase domain of the Abl1 protein (UniProt.org). Y253H has been associated with resistance to ABL1 inhibitors (PMID: 29375916, PMID: 16482207), but in the context of BCR-ABL1 does not result in increased kinase activity in vitro or increased growth over wild-type BCR-ABL1 in culture and mouse models (PMID: 16482207), however, in the context of native Abl1, demonstrates a modest increase in catalytic efficiency in an in vitro assay (PMID: 30684523), and therefore, its effect on Abl1 protein function is unknown.",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 14163,
+                            "pubMedId": 30684523,
+                            "title": "The catalytic activity of Abl1 single and compound mutations: Implications for the mechanism of drug resistance mutations in chronic myeloid leukaemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30684523"
+                        },
+                        {
+                            "id": 3835,
+                            "pubMedId": 16482207,
+                            "title": "The Bcr-Abl mutations T315I and Y253H do not confer a growth advantage in the absence of imatinib.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16482207"
+                        },
+                        {
+                            "id": 11528,
+                            "pubMedId": 29375916,
+                            "title": "Late Emergence of an Imatinib-Resistant ABL1 Kinase Domain Mutation in a Patient with Chronic Myeloid Leukemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/29375916"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22538,
+            "fullName": "ABL1 M437I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 M437I lies within the protein kinase domain of the Abl1 protein (UniProt.org). M437I has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).\r\n",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 595,
+            "fullName": "ABL1 P309fs",
+            "impact": "frameshift",
+            "proteinEffect": "loss of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 P309fs results in a change in the amino acid sequence of the Abl1 protein beginning at aa 309 of 1130,\u00a0likely resulting in premature truncation of the functional protein (UniProt.org). Due to the loss of a portion of the protein kinase domain (UniProt.org), P309fs is predicted to lead to a loss of Abl1 protein function.",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22401,
+            "fullName": "ABL1 T277I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 T277I lies within the protein kinase domain of the Abl1 protein (UniProt.org). T277I has been identified in sequencing studies (PMID: 26164066), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 7776,
+                            "pubMedId": 26164066,
+                            "title": "Spectrum of gene mutations detected by next generation exome sequencing in brain metastases of lung adenocarcinoma.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26164066"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27599,
+            "fullName": "ABL1 F317C",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F317C lies within the protein kinase domain of the Abl1 protein (UniProt.org). F317C has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL1 (PMID: 24382642, PMID: 15459011), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 11534,
+                            "pubMedId": 15459011,
+                            "title": "A cell-based screen for resistance of Bcr-Abl-positive leukemia identifies the mutation pattern for PD166326, an alternative Abl kinase inhibitor.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/15459011"
+                        },
+                        {
+                            "id": 11095,
+                            "pubMedId": 24382642,
+                            "title": "Drug resistance and BCR-ABL kinase domain mutations in Philadelphia chromosome-positive acute lymphoblastic leukemia from the imatinib to the second-generation tyrosine kinase inhibitor era: The main changes are in the type of mutations, but not in the frequency of mutation involvement.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/24382642"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25164,
+            "fullName": "ABL1 E1085K",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E1085K lies within the F-actin-binding region of the Abl1 protein (UniProt.org). E1085K has not been characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22399,
+            "fullName": "ABL1 E275D",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E275D lies within the protein kinase domain of the Abl1 protein (UniProt.org). E275D has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27601,
+            "fullName": "ABL1 T315A",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 T315A lies within the protein kinase domain of the Abl1 protein (UniProt.org). T315A has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL1 (PMID: 17339191, PMID: 17710227, PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 11535,
+                            "pubMedId": 17710227,
+                            "title": "Sequential ABL kinase inhibitor therapy selects for compound drug-resistant BCR-ABL mutations with altered oncogenic potency.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/17710227"
+                        },
+                        {
+                            "id": 11096,
+                            "pubMedId": 17339191,
+                            "title": "Resistance to dasatinib in Philadelphia-positive leukemia patients and the presence or the selection of mutations at residues 315 and 317 in the BCR-ABL kinase domain.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/17339191"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13394,
+            "fullName": "ABL1 T315N",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 T315N lies within the protein kinase domain of the Abl1 protein (UniProt.org). T315N has been associated with resistance to Abl1 inhibitors (PMID: 16046538), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5631,
+                            "pubMedId": 16046538,
+                            "title": "Inhibition of drug-resistant mutants of ABL, KIT, and EGF receptor kinases.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16046538"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13385,
+            "fullName": "ABL1 M388L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 M388L lies within the protein kinase domain of the Abl1 protein (UniProt.org). M388L has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13374,
+            "fullName": "ABL1 G250E",
+            "impact": "missense",
+            "proteinEffect": "gain of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 G250E lies within the protein kinase domain of the Abl1 protein (UniProt.org). G250E results in increased enzymatic efficiency (kcat/Km) compared to wild-type Abl1 in an in vitro kinase assay (PMID: 30684523), and has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040), and therefore, is predicted to lead to a gain of Abl1 protein function.",
+                    "references": [
+                        {
+                            "id": 14163,
+                            "pubMedId": 30684523,
+                            "title": "The catalytic activity of Abl1 single and compound mutations: Implications for the mechanism of drug resistance mutations in chronic myeloid leukaemia.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/30684523"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22554,
+            "fullName": "ABL1 M237V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 M237V does not lie within any known functional domains of the Abl1 protein (UniProt.org). M237V has been identified in the scientific literature (PMID: 26603839, PMID: 16527898, PMID: 20595523), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 12745,
+                            "pubMedId": 16527898,
+                            "title": "BCR/ABL kinase induces self-mutagenesis via reactive oxygen species to encode imatinib resistance.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16527898"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 15079,
+                            "pubMedId": 20595523,
+                            "title": "Uncommon BCR-ABL kinase domain mutations in kinase inhibitor-resistant chronic myelogenous leukemia and Ph+ acute lymphoblastic leukemia show high rates of regression, suggesting weak selective effects.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/20595523"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26408,
+            "fullName": "ABL1 A337V",
+            "impact": "missense",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 A337V lies within the protein kinase domain of the Abl1 protein (UniProt.org). A337V has been demonstrated to confer resistance to allosteric Abl1 inhibitors (PMID: 25849130, PMID: 27890928) and results in increased kinase activity and transformation in cultured cells (PMID: 27890928).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 8640,
+                            "pubMedId": 25849130,
+                            "title": "Studying clonal dynamics in response to cancer therapy using high-complexity barcoding.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/25849130"
+                        },
+                        {
+                            "id": 11532,
+                            "pubMedId": 27890928,
+                            "title": "Identification and characterization of activating ABL1 1b kinase mutations: impact on sensitivity to ATP-competitive and allosteric ABL1 inhibitors.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/27890928"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2572,
+            "fullName": "ABL1 V289F",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 V289F lies within the protein kinase domain of the Abl1 protein (UniProt.org). V289F has been identified in the scientific literature (PMID: 23355941, PMID: 24456693), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019). ",
+                    "references": [
+                        {
+                            "id": 5511,
+                            "pubMedId": 24456693,
+                            "title": "BCR-ABL kinase domain mutations, including 2 novel mutations in imatinib resistant Malaysian chronic myeloid leukemia patients-Frequency and clinical outcome.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/24456693"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 1112,
+                            "pubMedId": 23355941,
+                            "title": "Contribution of BCR-ABL kinase domain mutations to imatinib mesylate resistance in Philadelphia chromosome positive Malaysian chronic myeloid leukemia patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/23355941"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13370,
+            "fullName": "ABL1 F317L",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 F317L lies within the protein kinase domain of the Abl1 protein (UniProt.org). F317L has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL1 (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26424,
+            "fullName": "ABL1 K294E",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 K294E lies within the protein kinase domain of the Abl1 protein (UniProt.org). K294E has been demonstrated to confer resistance to allosteric Abl1 inhibitors (PMID: 28329763), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 8633,
+                            "pubMedId": 28329763,
+                            "title": "The allosteric inhibitor ABL001 enables dual targeting of BCR-ABL1.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28329763"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13904,
+            "fullName": "ABL1 mutant",
+            "impact": "unknown",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 mutant indicates and unspecified mutation in the ABL1 gene.",
+                    "references": [
+                        {
+                            "id": 275,
+                            "pubMedId": 10,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26990,
+            "fullName": "ABL1 amp",
+            "impact": "none",
+            "proteinEffect": "no effect",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 amplification indicates an increased number of copies of the ABL1 gene. However, the mechanism causing the increase is unspecified.",
+                    "references": [
+                        {
+                            "id": 275,
+                            "pubMedId": 10,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13367,
+            "fullName": "ABL1 E355G",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E355G lies within the protein kinase domain of the Abl1 protein (UniProt.org). E355G has been demonstrated to occur as a secondary drug resistance mutation in the context of BCR-ABL (PMID: 21562040, PMID: 28278078), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 14492,
+                            "pubMedId": 28278078,
+                            "title": "Presence of novel compound BCR-ABL mutations in late chronic and advanced phase imatinib sensitive CML patients indicates their possible role in CML progression.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/28278078"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13363,
+            "fullName": "ABL1 C330G",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 C330G lies within the protein kinase domain of the Abl1 protein (UniProt.org). C330G has been identified in the scientific literature (PMID: 19373669), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 7903,
+                            "pubMedId": 19373669,
+                            "title": "Presence of a new BCR-ABL kinase domain mutation, C330G in an imatinib naive patient with chronic myeloid leukemia: very low prevalence of BCR-ABL kinase domain mutations in patients with chronic myeloid leukemia from eastern India.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/19373669"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24592,
+            "fullName": "ABL1 V422I",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 V422I lies within the protein kinase domain of the Abl1 protein (UniProt.org). V422I has been identified in sequencing studies (PMID:     20595523), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 15079,
+                            "pubMedId": 20595523,
+                            "title": "Uncommon BCR-ABL kinase domain mutations in kinase inhibitor-resistant chronic myelogenous leukemia and Ph+ acute lymphoblastic leukemia show high rates of regression, suggesting weak selective effects.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/20595523"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24591,
+            "fullName": "ABL1 K596*",
+            "impact": "nonsense",
+            "proteinEffect": "loss of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 K596* results in a premature truncation of the Abl1 protein at amino acid 596 of 1130 (UniProt.org). Due to the loss of the DNA-binding and actin-binding regions (UniProt.org), R596* is predicted to lead to a loss of Abl1 protein function.\r\n",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22549,
+            "fullName": "ABL1 E279V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 E279V lies within the protein kinase domain of the Abl1 protein (UniProt.org). E279V has been identified in the scientific literature (PMID: 26603839), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, May 2019).",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 5509,
+                            "pubMedId": 26603839,
+                            "title": "Compound mutations in BCR-ABL1 are not major drivers of primary or secondary resistance to ponatinib in CP-CML patients.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/26603839"
+                        },
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13382,
+            "fullName": "ABL1 M244V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 M244V lies within the protein kinase domain of the Abl1 protein (UniProt.org). M244V has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16905,
+            "fullName": "ABL1 R577*",
+            "impact": "nonsense",
+            "proteinEffect": "loss of function - predicted",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 R577* results in a premature truncation of the Abl1 protein at amino acid 577 of 1130 (UniProt.org). Due to the loss of the DNA-binding and actin-binding regions (UniProt.org), R577* is predicted to lead to a loss of Abl1 protein function.",
+                    "references": [
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13379,
+            "fullName": "ABL1 L248V",
+            "impact": "missense",
+            "proteinEffect": "unknown",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ABL1 L248V lies within the protein kinase domain of the Abl1 protein (UniProt.org). L248V has been demonstrated to occur as a secondary resistance mutation in the context of BCR-ABL (PMID: 21562040), but has not been biochemically characterized and therefore, its effect on Abl1 protein function is unknown (PubMed, Mar 2019).",
+                    "references": [
+                        {
+                            "id": 285,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed"
+                        },
+                        {
+                            "id": 295,
+                            "pubMedId": null,
+                            "title": null,
+                            "url": "www.uniprot.org"
+                        },
+                        {
+                            "id": 3828,
+                            "pubMedId": 21562040,
+                            "title": "BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21562040"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17993,
+            "fullName": "ETV6 ETV6 - ABL1",
+            "impact": "fusion",
+            "proteinEffect": "gain of function",
+            "geneVariantDescriptions": [
+                {
+                    "description": "ETV6-ABL1 results from the fusion of ETV6 (also referred to as TEL) and ABL1, demonstrating increased kinase activity (PMID: 9695962) and the ability to induce CML-like myeloproliferative disease in mice (PMID: 12036890) and in cell culture (PMID: 9695962).",
+                    "references": [
+                        {
+                            "id": 4586,
+                            "pubMedId": 12036890,
+                            "title": "The Tel-Abl (ETV6-Abl) tyrosine kinase, product of complex (9;12) translocations in human leukemia, induces distinct myeloproliferative disease in mice.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/12036890"
+                        },
+                        {
+                            "id": 12151,
+                            "pubMedId": 9695962,
+                            "title": "Haemopoietic transformation by the TEL/ABL oncogene.",
+                            "url": "http://www.ncbi.nlm.nih.gov/pubmed/9695962"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "molecularProfiles": [
+        {
+            "id": 13574,
+            "profileName": "ABL1 Q346L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 505,
+            "profileName": "ABL1 wild-type",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23079,
+            "profileName": "ABL1 F359C",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 2623,
+            "profileName": "ABL1 K605del",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 700,
+            "profileName": "ABL1 P309fs",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 29117,
+            "profileName": "ABL1 T315A",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23081,
+            "profileName": "ABL1 E355A",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23136,
+            "profileName": "ABL1 C475W",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13577,
+            "profileName": "ABL1 T315L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 25340,
+            "profileName": "ABL1 V422I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27626,
+            "profileName": "ABL1 V468F",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27621,
+            "profileName": "ABL1 A337V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23142,
+            "profileName": "ABL1 M237R",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23144,
+            "profileName": "ABL1 R362T",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13553,
+            "profileName": "ABL1 E355G",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 22986,
+            "profileName": "ABL1 E459K",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13565,
+            "profileName": "ABL1 L248V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13568,
+            "profileName": "ABL1 M244V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23146,
+            "profileName": "ABL1 Y456C",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 2838,
+            "profileName": "ABL1 act mut",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13558,
+            "profileName": "ABL1 F359I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13554,
+            "profileName": "ABL1 F311I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13564,
+            "profileName": "ABL1 I242M",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13567,
+            "profileName": "ABL1 L387M",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 25102,
+            "profileName": "ABL1 R332W",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 25103,
+            "profileName": "ABL1 R332W ABL1 T315I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13576,
+            "profileName": "ABL1 S417Y",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23164,
+            "profileName": "ABL1 I432M",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13556,
+            "profileName": "ABL1 F317L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27899,
+            "profileName": "ABL1 G250R ABL1 G251D",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27898,
+            "profileName": "ABL1 G251D",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23166,
+            "profileName": "ABL1 R386M",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13562,
+            "profileName": "ABL1 H396P",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13563,
+            "profileName": "ABL1 H396R",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 3595,
+            "profileName": "ABL1 V299L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 22981,
+            "profileName": "ABL1 P310L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23129,
+            "profileName": "ABL1 M437I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27623,
+            "profileName": "ABL1 P465S",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23160,
+            "profileName": "ABL1 E279V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 25109,
+            "profileName": "ABL1 G321L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 17183,
+            "profileName": "ABL1 R239C",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23162,
+            "profileName": "ABL1 E281K",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 29115,
+            "profileName": "ABL1 F317C",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13579,
+            "profileName": "ABL1 T315N",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13573,
+            "profileName": "ABL1 Q252H",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27642,
+            "profileName": "ABL1 K294E",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13551,
+            "profileName": "ABL1 E255V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 25339,
+            "profileName": "ABL1 K596*",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13549,
+            "profileName": "ABL1 C330G",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 28358,
+            "profileName": "ABL1 amp",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 22976,
+            "profileName": "ABL1 E450G",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 536,
+            "profileName": "ABL1 T315I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 29111,
+            "profileName": "ABL1 F317I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23140,
+            "profileName": "ABL1 K262N",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13580,
+            "profileName": "ABL1 Y253F",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23168,
+            "profileName": "ABL1 V379I",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 22974,
+            "profileName": "ABL1 E275D",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23173,
+            "profileName": "ABL1 M237V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 29106,
+            "profileName": "ABL1 F317V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13566,
+            "profileName": "ABL1 L384M",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23138,
+            "profileName": "ABL1 E282D",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 5390,
+            "profileName": "ABL1 E255K",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27269,
+            "profileName": "ABL1 E308*",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13561,
+            "profileName": "ABL1 H295_P296insH",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13582,
+            "profileName": "ABL1 Y253H",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13555,
+            "profileName": "ABL1 F311L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13569,
+            "profileName": "ABL1 M351T",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23159,
+            "profileName": "ABL1 E279W",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 25952,
+            "profileName": "ABL1 E1085K",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 17184,
+            "profileName": "ABL1 R577*",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 22984,
+            "profileName": "ABL1 G250W",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13571,
+            "profileName": "ABL1 M388L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27630,
+            "profileName": "ABL1 I502L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 5395,
+            "profileName": "ABL1 over exp",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27445,
+            "profileName": "ABL1 P918S",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13550,
+            "profileName": "ABL1 D276G",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 2423,
+            "profileName": "ABL1 V289F",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 23133,
+            "profileName": "ABL1 A287V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13560,
+            "profileName": "ABL1 G250E",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27897,
+            "profileName": "ABL1 G250R",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 22979,
+            "profileName": "ABL1 E507G",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27643,
+            "profileName": "ABL1 G250H",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13572,
+            "profileName": "ABL1 P980L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13552,
+            "profileName": "ABL1 E279K",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 14098,
+            "profileName": "ABL1 mutant",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 27640,
+            "profileName": "ABL1 P223S",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 8949,
+            "profileName": "ABL1 S972L",
+            "profileTreatmentApproaches": [
+                
+            ]
+        },
+        {
+            "id": 13559,
+            "profileName": "ABL1 F359V",
+            "profileTreatmentApproaches": [
+                
+            ]
+        }
+    ]
+}

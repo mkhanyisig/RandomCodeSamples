@@ -1,0 +1,66 @@
+{
+    "nctId": "NCT00939770",
+    "title": "Crizotinib in Treating Young Patients With Relapsed or Refractory Solid Tumors or Anaplastic Large Cell Lymphoma",
+    "phase": "Phase Ib/II",
+    "recruitment": "Completed",
+    "therapies": [
+        {
+            "id": 706,
+            "therapyName": "Crizotinib",
+            "synonyms": null
+        }
+    ],
+    "ageGroups": [
+        "adult",
+        "child"
+    ],
+    "gender": "both",
+    "variantRequirements": "yes",
+    "sponsors": "Children's Oncology Group",
+    "updateDate": "05/17/2019",
+    "indications": [
+        {
+            "id": 10000003,
+            "name": "Advanced Solid Tumor",
+            "source": "JAX"
+        },
+        {
+            "id": 50744,
+            "name": "anaplastic large cell lymphoma",
+            "source": "DOID"
+        },
+        {
+            "id": 3620,
+            "name": "central nervous system cancer",
+            "source": "DOID"
+        },
+        {
+            "id": 769,
+            "name": "neuroblastoma",
+            "source": "DOID"
+        }
+    ],
+    "variantRequirementDetails": [
+        {
+            "molecularProfile": {
+                "id": 2446,
+                "profileName": "ALK fusion"
+            },
+            "requirementType": "partial - required"
+        },
+        {
+            "molecularProfile": {
+                "id": 1267,
+                "profileName": "ALK mutant"
+            },
+            "requirementType": "partial - required"
+        },
+        {
+            "molecularProfile": {
+                "id": 1760,
+                "profileName": "ALK amp"
+            },
+            "requirementType": "partial - required"
+        }
+    ]
+}

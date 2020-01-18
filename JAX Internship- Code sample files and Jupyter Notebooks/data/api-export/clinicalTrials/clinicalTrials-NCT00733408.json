@@ -1,0 +1,50 @@
+{
+    "nctId": "NCT00733408",
+    "title": "Paclitaxel Albumin-Stabilized Nanoparticle Formulation and Bevacizumab Followed By Bevacizumab and Erlotinib Hydrochloride in Treating Patients With Metastatic Breast Cancer",
+    "phase": "Phase II",
+    "recruitment": "Completed",
+    "therapies": [
+        {
+            "id": 1496,
+            "therapyName": "Bevacizumab + Erlotinib + Nab-paclitaxel",
+            "synonyms": null
+        }
+    ],
+    "ageGroups": [
+        "adult"
+    ],
+    "gender": "female",
+    "variantRequirements": "yes",
+    "sponsors": "University of Washington",
+    "updateDate": "12/05/2018",
+    "indications": [
+        {
+            "id": 1612,
+            "name": "breast cancer",
+            "source": "DOID"
+        }
+    ],
+    "variantRequirementDetails": [
+        {
+            "molecularProfile": {
+                "id": 530,
+                "profileName": "ERBB2 wild-type"
+            },
+            "requirementType": "required"
+        },
+        {
+            "molecularProfile": {
+                "id": 1189,
+                "profileName": "PGR negative"
+            },
+            "requirementType": "required"
+        },
+        {
+            "molecularProfile": {
+                "id": 1190,
+                "profileName": "ESR1 negative"
+            },
+            "requirementType": "required"
+        }
+    ]
+}

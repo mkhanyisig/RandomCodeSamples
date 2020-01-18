@@ -1,0 +1,765 @@
+{
+    "id": 122,
+    "drugClass": "Immune Checkpoint Inhibitor",
+    "createDate": "01/22/2016",
+    "drugs": [
+        {
+            "id": 8381,
+            "drugName": "AZD4635",
+            "terms": [
+                "AZD4635"
+            ]
+        },
+        {
+            "id": 8810,
+            "drugName": "NLG802",
+            "terms": [
+                "NLG802"
+            ]
+        },
+        {
+            "id": 9384,
+            "drugName": "CX-188",
+            "terms": [
+                "CX-188"
+            ]
+        },
+        {
+            "id": 8962,
+            "drugName": "LZM009",
+            "terms": [
+                "LZM009"
+            ]
+        },
+        {
+            "id": 9135,
+            "drugName": "MSB2311",
+            "terms": [
+                "MSB2311"
+            ]
+        },
+        {
+            "id": 7952,
+            "drugName": "Avelumab",
+            "terms": [
+                "Avelumab",
+                "Bavencio",
+                "MSB0010718C"
+            ]
+        },
+        {
+            "id": 8589,
+            "drugName": "FAZ053",
+            "terms": [
+                "FAZ053",
+                "FAZ 053",
+                "FAZ-053"
+            ]
+        },
+        {
+            "id": 7634,
+            "drugName": "Spartalizumab",
+            "terms": [
+                "Spartalizumab",
+                "PDR001"
+            ]
+        },
+        {
+            "id": 9025,
+            "drugName": "MK-7162",
+            "terms": [
+                "MK-7162"
+            ]
+        },
+        {
+            "id": 8568,
+            "drugName": "BMS-986207",
+            "terms": [
+                "BMS-986207"
+            ]
+        },
+        {
+            "id": 8748,
+            "drugName": "AGEN2034",
+            "terms": [
+                "AGEN2034"
+            ]
+        },
+        {
+            "id": 9094,
+            "drugName": "CPI-006",
+            "terms": [
+                "CPI-006"
+            ]
+        },
+        {
+            "id": 9267,
+            "drugName": "TSR-022",
+            "terms": [
+                "TSR-022"
+            ]
+        },
+        {
+            "id": 8375,
+            "drugName": "BMS-986179",
+            "terms": [
+                "BMS-986179"
+            ]
+        },
+        {
+            "id": 8638,
+            "drugName": "MK-7684",
+            "terms": [
+                "MK-7684"
+            ]
+        },
+        {
+            "id": 9150,
+            "drugName": "XmAb20717",
+            "terms": [
+                "XmAb20717"
+            ]
+        },
+        {
+            "id": 9219,
+            "drugName": "TTI-622",
+            "terms": [
+                "TTI-622"
+            ]
+        },
+        {
+            "id": 9261,
+            "drugName": "NZV930",
+            "terms": [
+                "NZV930",
+                "SRF373"
+            ]
+        },
+        {
+            "id": 7884,
+            "drugName": "Indoximod",
+            "terms": [
+                "Indoximod",
+                "1-methyl-d-tryptophan",
+                "1-MT",
+                "D-1MT",
+                "NLG-8189"
+            ]
+        },
+        {
+            "id": 9268,
+            "drugName": "CS1003",
+            "terms": [
+                "CS1003"
+            ]
+        },
+        {
+            "id": 9358,
+            "drugName": "KHK2455",
+            "terms": [
+                "KHK2455"
+            ]
+        },
+        {
+            "id": 9275,
+            "drugName": "GB226",
+            "terms": [
+                "GB226"
+            ]
+        },
+        {
+            "id": 9240,
+            "drugName": "CC-90002",
+            "terms": [
+                "CC-90002"
+            ]
+        },
+        {
+            "id": 8735,
+            "drugName": "Cemiplimab",
+            "terms": [
+                "Cemiplimab",
+                "Libtayo",
+                "REGN2810",
+                "SAR439684"
+            ]
+        },
+        {
+            "id": 7815,
+            "drugName": "LAG525",
+            "terms": [
+                "LAG525"
+            ]
+        },
+        {
+            "id": 9081,
+            "drugName": "JNJ-63723283",
+            "terms": [
+                "JNJ-63723283"
+            ]
+        },
+        {
+            "id": 7587,
+            "drugName": "Epacadostat",
+            "terms": [
+                "Epacadostat",
+                "INCB024360"
+            ]
+        },
+        {
+            "id": 8535,
+            "drugName": "PBF-509",
+            "terms": [
+                "PBF-509",
+                "NIR178"
+            ]
+        },
+        {
+            "id": 8971,
+            "drugName": "TSR-042",
+            "terms": [
+                "TSR-042"
+            ]
+        },
+        {
+            "id": 7262,
+            "drugName": "Pembrolizumab",
+            "terms": [
+                "Pembrolizumab",
+                "Keytruda",
+                "MK-3475"
+            ]
+        },
+        {
+            "id": 9248,
+            "drugName": "AO-104",
+            "terms": [
+                "AO-104"
+            ]
+        },
+        {
+            "id": 9089,
+            "drugName": "BMS-986258",
+            "terms": [
+                "BMS-986258",
+                "ONO 7807"
+            ]
+        },
+        {
+            "id": 8750,
+            "drugName": "AGEN1884",
+            "terms": [
+                "AGEN1884"
+            ]
+        },
+        {
+            "id": 9262,
+            "drugName": "IPH53",
+            "terms": [
+                "IPH53"
+            ]
+        },
+        {
+            "id": 8667,
+            "drugName": "TTI-621",
+            "terms": [
+                "TTI-621",
+                "SIRPalpha-Fc"
+            ]
+        },
+        {
+            "id": 8923,
+            "drugName": "Camrelizumab",
+            "terms": [
+                "Camrelizumab",
+                "INCSHR-1210",
+                "SHR-1210"
+            ]
+        },
+        {
+            "id": 8376,
+            "drugName": "Relatlimab",
+            "terms": [
+                "Relatlimab",
+                "BMS-986016"
+            ]
+        },
+        {
+            "id": 8044,
+            "drugName": "AMP-224",
+            "terms": [
+                "AMP-224"
+            ]
+        },
+        {
+            "id": 9241,
+            "drugName": "NI-1701",
+            "terms": [
+                "NI-1701"
+            ]
+        },
+        {
+            "id": 7235,
+            "drugName": "Nivolumab",
+            "terms": [
+                "Nivolumab",
+                "Opdivo",
+                "BMS-936558",
+                "MDX-1106"
+            ]
+        },
+        {
+            "id": 7221,
+            "drugName": "Atezolizumab",
+            "terms": [
+                "Atezolizumab",
+                "Tecentriq",
+                "MPDL3280A",
+                "RG7446"
+            ]
+        },
+        {
+            "id": 7816,
+            "drugName": "GDC-0919",
+            "terms": [
+                "GDC-0919",
+                "Navoximod",
+                "NLG919",
+                "RG6078"
+            ]
+        },
+        {
+            "id": 9131,
+            "drugName": "Sym023",
+            "terms": [
+                "Sym023"
+            ]
+        },
+        {
+            "id": 7934,
+            "drugName": "Oleclumab",
+            "terms": [
+                "Oleclumab",
+                "MEDI9447"
+            ]
+        },
+        {
+            "id": 9269,
+            "drugName": "AK104",
+            "terms": [
+                "AK104"
+            ]
+        },
+        {
+            "id": 8764,
+            "drugName": "REGN3767",
+            "terms": [
+                "REGN3767",
+                "R3767",
+                "REGN 3767"
+            ]
+        },
+        {
+            "id": 9276,
+            "drugName": "HLX10",
+            "terms": [
+                "HLX10"
+            ]
+        },
+        {
+            "id": 8045,
+            "drugName": "Pidilizumab",
+            "terms": [
+                "Pidilizumab"
+            ]
+        },
+        {
+            "id": 9242,
+            "drugName": "NI-1801",
+            "terms": [
+                "NI-1801"
+            ]
+        },
+        {
+            "id": 9249,
+            "drugName": "AO-108",
+            "terms": [
+                "AO-108"
+            ]
+        },
+        {
+            "id": 8716,
+            "drugName": "BMS-986218",
+            "terms": [
+                "BMS-986218"
+            ]
+        },
+        {
+            "id": 8979,
+            "drugName": "Sym021",
+            "terms": [
+                "Sym021"
+            ]
+        },
+        {
+            "id": 8848,
+            "drugName": "JS001",
+            "terms": [
+                "JS001",
+                "JS-001",
+                "TAB001"
+            ]
+        },
+        {
+            "id": 9277,
+            "drugName": "BGB-A333",
+            "terms": [
+                "BGB-A333"
+            ]
+        },
+        {
+            "id": 9028,
+            "drugName": "BMS-986249",
+            "terms": [
+                "BMS-986249"
+            ]
+        },
+        {
+            "id": 8834,
+            "drugName": "M7824",
+            "terms": [
+                "M7824",
+                "Bintrafusp alfa",
+                "MSB0011359C"
+            ]
+        },
+        {
+            "id": 8751,
+            "drugName": "OMP-313M32",
+            "terms": [
+                "OMP-313M32"
+            ]
+        },
+        {
+            "id": 9263,
+            "drugName": "IPH52",
+            "terms": [
+                "IPH52"
+            ]
+        },
+        {
+            "id": 8924,
+            "drugName": "Sintilimab",
+            "terms": [
+                "Sintilimab",
+                "Tyvyt",
+                "IBI308"
+            ]
+        },
+        {
+            "id": 8585,
+            "drugName": "Hu5F9-G4",
+            "terms": [
+                "Hu5F9-G4"
+            ]
+        },
+        {
+            "id": 8841,
+            "drugName": "BGB-A317",
+            "terms": [
+                "BGB-A317",
+                "Tislelizumab"
+            ]
+        },
+        {
+            "id": 9270,
+            "drugName": "AK105",
+            "terms": [
+                "AK105"
+            ]
+        },
+        {
+            "id": 8717,
+            "drugName": "LY3321367",
+            "terms": [
+                "LY3321367"
+            ]
+        },
+        {
+            "id": 8634,
+            "drugName": "CX-072",
+            "terms": [
+                "CX-072"
+            ]
+        },
+        {
+            "id": 8046,
+            "drugName": "BMS-936559",
+            "terms": [
+                "BMS-936559",
+                "MDX-1105"
+            ]
+        },
+        {
+            "id": 9243,
+            "drugName": "Effi-DEM",
+            "terms": [
+                "Effi-DEM",
+                "OSE-172"
+            ]
+        },
+        {
+            "id": 8786,
+            "drugName": "ABBV-181",
+            "terms": [
+                "ABBV-181",
+                "ABBV 181",
+                "ABBV181"
+            ]
+        },
+        {
+            "id": 9132,
+            "drugName": "Sym022",
+            "terms": [
+                "Sym022"
+            ]
+        },
+        {
+            "id": 7949,
+            "drugName": "MEDI0680",
+            "terms": [
+                "MEDI0680",
+                "AMP-514"
+            ]
+        },
+        {
+            "id": 8710,
+            "drugName": "Preladenant",
+            "terms": [
+                "Preladenant",
+                "MK-3814",
+                "SCH420814"
+            ]
+        },
+        {
+            "id": 8925,
+            "drugName": "GLS-010",
+            "terms": [
+                "GLS-010",
+                "AB122"
+            ]
+        },
+        {
+            "id": 9271,
+            "drugName": "HLX20",
+            "terms": [
+                "HLX20"
+            ]
+        },
+        {
+            "id": 8904,
+            "drugName": "MGD013",
+            "terms": [
+                "MGD013"
+            ]
+        },
+        {
+            "id": 9250,
+            "drugName": "AO-176",
+            "terms": [
+                "AO-176"
+            ]
+        },
+        {
+            "id": 8143,
+            "drugName": "BMS-986205",
+            "terms": [
+                "BMS-986205",
+                "BMS 986205",
+                "BMS986205",
+                "ONO-7701"
+            ]
+        },
+        {
+            "id": 8745,
+            "drugName": "BI 754111",
+            "terms": [
+                "BI 754111"
+            ]
+        },
+        {
+            "id": 9140,
+            "drugName": "FS118",
+            "terms": [
+                "FS118"
+            ]
+        },
+        {
+            "id": 8379,
+            "drugName": "MK-4280",
+            "terms": [
+                "MK-4280"
+            ]
+        },
+        {
+            "id": 8635,
+            "drugName": "ALX148",
+            "terms": [
+                "ALX148"
+            ]
+        },
+        {
+            "id": 9147,
+            "drugName": "SRF231",
+            "terms": [
+                "SRF231"
+            ]
+        },
+        {
+            "id": 6926,
+            "drugName": "Ipilimumab",
+            "terms": [
+                "Ipilimumab",
+                "Yervoy",
+                "BMS-734016"
+            ]
+        },
+        {
+            "id": 9175,
+            "drugName": "BCD-100",
+            "terms": [
+                "BCD-100"
+            ]
+        },
+        {
+            "id": 9092,
+            "drugName": "BGB-5777",
+            "terms": [
+                "BGB-5777"
+            ]
+        },
+        {
+            "id": 8926,
+            "drugName": "KN035",
+            "terms": [
+                "KN035"
+            ]
+        },
+        {
+            "id": 7307,
+            "drugName": "Tremelimumab",
+            "terms": [
+                "Tremelimumab",
+                "CP-675,206"
+            ]
+        },
+        {
+            "id": 8808,
+            "drugName": "MGA012",
+            "terms": [
+                "MGA012"
+            ]
+        },
+        {
+            "id": 8898,
+            "drugName": "MK-1308",
+            "terms": [
+                "MK-1308"
+            ]
+        },
+        {
+            "id": 8137,
+            "drugName": "MBG453",
+            "terms": [
+                "MBG453"
+            ]
+        },
+        {
+            "id": 9251,
+            "drugName": "HMBD004",
+            "terms": [
+                "HMBD004"
+            ]
+        },
+        {
+            "id": 9023,
+            "drugName": "LY3381916",
+            "terms": [
+                "LY3381916"
+            ]
+        },
+        {
+            "id": 7245,
+            "drugName": "Durvalumab",
+            "terms": [
+                "Durvalumab",
+                "Imfinzi",
+                "MEDI4736"
+            ]
+        },
+        {
+            "id": 8435,
+            "drugName": "LY3300054",
+            "terms": [
+                "LY3300054"
+            ]
+        },
+        {
+            "id": 8394,
+            "drugName": "MTIG7192A",
+            "terms": [
+                "MTIG7192A ",
+                "RG6058",
+                "RO7092284"
+            ]
+        },
+        {
+            "id": 8145,
+            "drugName": "CPI-444",
+            "terms": [
+                "CPI-444 ",
+                "V81444"
+            ]
+        },
+        {
+            "id": 8747,
+            "drugName": "BI 754091",
+            "terms": [
+                "BI 754091"
+            ]
+        },
+        {
+            "id": 8173,
+            "drugName": "JNJ-61610588",
+            "terms": [
+                "JNJ-61610588 ",
+                "JNJ 61610588"
+            ]
+        },
+        {
+            "id": 9266,
+            "drugName": "PF-06801591",
+            "terms": [
+                "PF-06801591"
+            ]
+        },
+        {
+            "id": 8927,
+            "drugName": "CS1001",
+            "terms": [
+                "CS1001",
+                "WBP3155"
+            ]
+        },
+        {
+            "id": 8844,
+            "drugName": "CA-170",
+            "terms": [
+                "CA-170"
+            ]
+        }
+    ],
+    "treatmentApproaches": [
+        
+    ]
+}
