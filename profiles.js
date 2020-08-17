@@ -1,4 +1,4 @@
-let dt=[
+let list=[
   {
     "link": "https://www.linkedin.com/in/brad-peek-a9477168/",
     "Name": "Brad Peek",
@@ -570,3 +570,7 @@ let dt=[
     "Grad Year": "2001 - 2005"
   }
 ];
+
+var dt=function(){
+   return list;
+}
