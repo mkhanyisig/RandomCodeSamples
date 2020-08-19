@@ -570,3 +570,5 @@ let dt=[
     "Grad Year": "2001 - 2005"
   }
 ];
+
+console.log(dt);
