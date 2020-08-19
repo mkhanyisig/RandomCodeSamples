@@ -571,4 +571,4 @@ let dt=[
   }
 ];
 
-console.log(dt);
+alert("external script loaded");
