@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10279662,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10279662",
+        "mrds_id": null,
+        "mas_id": 2740051001,
+        "site_name": "(Facility) Trinidad Aluminum Smelter Project",
+        "latitude": 10.63433,
+        "longitude": -61.51607,
+        "region": "CR",
+        "country": "Trinidad and Tobago",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Aluminum, Contained or Metal",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Unknown",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": null,
+        "yfp_ba": null,
+        "yr_fst_prd": null,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.51607,
+          10.63433
+        ]
+      }
+    }
+  ]
+}
