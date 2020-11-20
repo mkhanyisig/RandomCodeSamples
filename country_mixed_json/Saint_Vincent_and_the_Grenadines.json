@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10061611,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10061611",
+        "mrds_id": "TC34530",
+        "mas_id": null,
+        "site_name": "Mustique",
+        "latitude": 12.88424,
+        "longitude": -61.18268,
+        "region": "CR",
+        "country": "Saint Vincent and the Grenadines",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Silver, Gold",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Unknown",
+        "dep_type": null,
+        "prod_size": "N",
+        "dev_stat": "Occurrence",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Page, Norman J.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "KESLER, S.E., LEVY, E., AND MARTIN F.C., 1990, METALLOGENIC EVOLUTION OF THE CARIBBEAN REGION IN THE GEOLOGY OF NORTH AMERICA VOLUME H, THE CARIBBEAN REGION, EDS., DENGO, G. AND ASY, J.E., THE GEOLOGICAL SOCIETY OF AMERICA, V. H, P. 459-482CIMRI",
+        "yfp_ba": null,
+        "yr_fst_prd": null,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.18268,
+          12.88424
+        ]
+      }
+    }
+  ]
+}

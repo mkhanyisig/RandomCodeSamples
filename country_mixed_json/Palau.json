@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10086430,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10086430",
+        "mrds_id": "WA00001",
+        "mas_id": null,
+        "site_name": "Rois Malk",
+        "latitude": 7.382,
+        "longitude": 134.59486,
+        "region": "OC",
+        "country": "Palau",
+        "state": "Peleliu",
+        "county": null,
+        "com_type": "M",
+        "commod1": "Gold",
+        "commod2": "Copper",
+        "commod3": null,
+        "oper_type": "Unknown",
+        "dep_type": null,
+        "prod_size": "N",
+        "dev_stat": "Occurrence",
+        "ore": "Chalcopyrite, Electrum, Gold, Pyrite",
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": "OTHER (>100 MINERALIZED VIENS AND SHEAR ZONES OVER AN AREA 1 X 1.5KM IN SIZE)",
+        "work_type": null,
+        "model": "154: Epithermal quartz-alunite Au",
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": "Mineralized Veins, Shear Zones, And Brecciated Areas",
+        "reporter": "Jenness, Jane E.",
+        "hrock_unit": "Airai Formation; Babelthuap Formation",
+        "hrock_type": "Andesite",
+        "arock_unit": "Babelthuap Formation",
+        "arock_type": "Andesite",
+        "structure": null,
+        "tectonic": "Palau Arc Is An Intra-Oceanic Island Arc-Trench System Separating The Pacific And Philippine Plates In The Western Pacific Ocean.  It Is The Southernmost Of A Series Of Arc-Trench Systems (Including Yap, Mariana, And Bonin-Izu Systems).",
+        "ref": "MILLER, W.R., RYTUBA, J.J., ARNOLD, M.A., AND VERCOUTERE, T.L., 1989, INVESTIGATION OF THE ROIS MALK EPITHERMAL GOLD SYSTEM, REPUBLIC OF PALAU: U.S. GEOLOGICAL SURVEY BULLETIN 1872, 85P. PLUS 3 PLATES.RYTUBA, J.J., MILLER, W.R., AND STEWART, J.H., 1985, ROIS MALK EPITHERMAL GOLD SYSTEM, REPUBLIC OF PALAU: U.S. GEOLOGICAL SURVEY OPEN-FILE REPORT 85-606, 6P.RYTUBA, J.J., MILLER, W.R., AND MCKEE E.H., 1987, EPITHERMAL GOLD MINERALIZATION IN THE REPUBLIC OF PALAU: IN U.S. GEOLOGICAL SURVEY CIRCULAR 995 (MCKELVEY FORUM ABSTRACTS, 1987), P. 59-60.USGS BULLETIN 1872 (1989USGS BULLETIN 1872 (1989)",
+        "yfp_ba": null,
+        "yr_fst_prd": null,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": "This Area Was Previously Prospected By The Japanese, But In 1938-39 Was Considered To Be Of No Commercial Interest."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.59486,
+          7.382
+        ]
+      }
+    }
+  ]
+}
