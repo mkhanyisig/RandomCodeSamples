@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10280896,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10280896",
+        "mrds_id": null,
+        "mas_id": 4000001016,
+        "site_name": "Straumsvik",
+        "latitude": 63.03952,
+        "longitude": -21.57712,
+        "region": "EU",
+        "country": "Iceland",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Aluminum, Contained or Metal",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": "Straumsvik,HafnarfjordurHafnarfjordurStraumsvik,",
+        "ore_ctrl": null,
+        "reporter": "Buckingham, David A.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "BOM/MINERALS AVAILABILITY PROGRAM, \"PRIMARY POST-MILLALUMINUM SMELTING FACILITES 1983: A DATA BANK\",CONTRACT # J0245003, OCTOBER 1, 1985.BOM/BRANCH OF NONFERROUS METALS, \"PRIMARY ALUMINUM PLANTSWORLDWIDE\", PART I - DETAIL, P84; PART II - SUMMARY, P9.BROOK HUNT & ASSOCIATES LTD., ALUMINUM DATA, 1986, PAGE 185;1988, PAGE 1.104.MINING JOURNAL, LONDON, VOL 311, #7989, \"ICELANDIC SMELTINGVENTURE\", OCTOBER 7, 1998, P277.METALS BULITON, \"LIGHT METALS\"  \"ISAL ESPANSION TALKSRESUME\", OCTOBER 14, 1986, P??.INTERNATIONAL FINANCIAL STATISTICS, JAN 1989, PP280-281.",
+        "yfp_ba": null,
+        "yr_fst_prd": 1969.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.57712,
+          63.03952
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10280637,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10280637",
+        "mrds_id": null,
+        "mas_id": 7500000001,
+        "site_name": "Bruyfut and Sanyang",
+        "latitude": 13.2674,
+        "longitude": -16.75691,
+        "region": "AF",
+        "country": "Gambia, the",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": null,
+        "commod2": "Titanium",
+        "commod3": null,
+        "oper_type": "Surface",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Prospect",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Boyle, Ed",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "DEKUN,N. THE MINERAL RESOURCES OF AFRICA, ELSEVIER PUBL.CO.,NEW YORK, 1965, P.509.MINING MAGAZINE, NOV.1975.METALS SOURCEBOOK, ITEM B1446, FEB.11,1974.MINING MAGAZINE, MARCH 1974.WORLD MINING, NOV.1975, P.70.DMA SERIES 1501 MAP,  SHEET ND 28-9.",
+        "yfp_ba": null,
+        "yr_fst_prd": null,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.75691,
+          13.2674
+        ]
+      }
+    }
+  ]
+}
