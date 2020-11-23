@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "fd75974a60a69f1e3765be776f21fa3f",
+        "longitude": 37.45,
+        "latitude": 15.46667,
+        "name": "Bisha Mine Resources and Reserves Update",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=fd75974a60a69f1e3765be776f21fa3f&context=copy_url<br>Lat Long: 15\u00c2\u00b028\u00e2\u20ac\u2122 N 37\u00c2\u00b027\u00e2\u20ac\u2122 E<br>Lat Long Clean: 15\u00c2\u00b028\u00e2\u20ac\u2122 N 37\u00c2\u00b027\u00e2\u20ac\u2122 E<br>Report ID: fd75974a60a69f1e3765be776f21fa3f<br>Prospector Report ID: PP000000678<br>Report Date: Wednesday, August 9, 2017<br>Qualified Author(s): Dr. Gilles Arseneau, P.Geo.<br>Deposit Type: Volcanic-hosted massive sulfide (VMS) deposits<br>Mineral: Copper, Gold, Silver, Zinc<br>Mineral Resources Estimate: Measured Mineral Resource<br>Company: Nevsun Resources Ltd.<br>Geography: Eritrea<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=fd75974a60a69f1e3765be776f21fa3f",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=fd75974a60a69f1e3765be776f21fa3f&context=copy_url",
+        "report_id.1": "fd75974a60a69f1e3765be776f21fa3f",
+        "long lat": null,
+        "prospector_report_id": "PP000000678",
+        "report_date": "Wednesday, August 9, 2017",
+        "qualified_author_s_": "Dr. Gilles Arseneau, P.Geo.",
+        "deposit_type": "Volcanic-hosted massive sulfide (VMS) deposits",
+        "mineral": "Copper, Gold, Silver, Zinc",
+        "mineral_resources_estimate": "Measured Mineral Resource",
+        "company": "Nevsun Resources Ltd.",
+        "country": "Eritrea",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=fd75974a60a69f1e3765be776f21fa3f",
+        "mineral_tags": [
+          "gold",
+          "zinc",
+          "copper",
+          "silver"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.45,
+          15.46667
+        ]
+      }
+    }
+  ]
+}
