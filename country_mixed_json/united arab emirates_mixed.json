@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10231255,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10231255",
+        "mrds_id": null,
+        "mas_id": "5200001016",
+        "site_name": "Jebal Ali",
+        "latitude": 25.2326,
+        "longitude": 55.28427,
+        "region": "AS",
+        "country": "United Arab Emirates",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Aluminum, Contained or Metal",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": "Dubal Smelter, Dubai Smelter",
+        "ore_ctrl": null,
+        "reporter": "Wilburn, David R.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "BROOK HUNT & ASSOCIATES LTD., ALUMINIUM SMELTER DATA, 1986,PAGE 254; 1988, PAGE 1.142.U.S. BUREAU OF MINES, MINERALS AVAILABILITY PROGRAM,\"PRIMARY POST-MILL ALUMINUM SMELTING FACILITIES 1983; ADATA BANK\", CONTRACT # J0245003, OCTOBER 1, 1985.U.S. BUREAU OF MINES, BRANCH OF NONFERROUS METALS, \"PRIMARYALUMINUM PLANTS WORLDWIDE\", PART I - DETAIL, PAGE 182;PART II - SUMMARY, PAGE 18.",
+        "yfp_ba": null,
+        "yr_fst_prd": 1979.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "aluminum",
+          "containedormetal"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28427,
+          25.2326
+        ]
+      }
+    }
+  ]
+}
