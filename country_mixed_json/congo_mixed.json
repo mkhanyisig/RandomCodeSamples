@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "61ec44032b00ba8cd326bd2e4a87ec80",
+        "longitude": 27.65,
+        "latitude": -3.73333,
+        "name": "Matala Gold Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=61ec44032b00ba8cd326bd2e4a87ec80&context=copy_url<br>Lat Long: 3\u00c2\u00b0 44\u00e2\u20ac\u2122 S, 27\u00c2\u00b0 39\u00e2\u20ac\u2122 E<br>Lat Long Clean: -3.73333, 27.65<br>Report ID: 61ec44032b00ba8cd326bd2e4a87ec80<br>Prospector Report ID: PP000000277<br>Report Date: Monday, March 7, 2016<br>Qualified Author(s): Galen White, BSc (Hons) Geology, FAusIMM, FGS; Simon Dorling, MSc, PhD, MAIG; David Muir, BSc (Hons) Geology, MAIG, FGS<br>Deposit Type: 0<br>Mineral: Gold<br>Mineral Resources Estimate: Inferred Mineral Resource<br>Company: Monument Mining Limited<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=61ec44032b00ba8cd326bd2e4a87ec80",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=61ec44032b00ba8cd326bd2e4a87ec80&context=copy_url",
+        "report_id.1": "61ec44032b00ba8cd326bd2e4a87ec80",
+        "long lat": null,
+        "prospector_report_id": "PP000000277",
+        "report_date": "Monday, March 7, 2016",
+        "qualified_author_s_": "Galen White, BSc (Hons) Geology, FAusIMM, FGS; Simon Dorling, MSc, PhD, MAIG; David Muir, BSc (Hons) Geology, MAIG, FGS",
+        "deposit_type": "0",
+        "mineral": "Gold",
+        "mineral_resources_estimate": "Inferred Mineral Resource",
+        "company": "Monument Mining Limited",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=61ec44032b00ba8cd326bd2e4a87ec80",
+        "mineral_tags": [
+          "gold"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.65,
+          -3.73333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "29930ed9c0695dff80902691354edb1a",
+        "longitude": 27.43,
+        "latitude": -7.288,
+        "name": "Buckell Li-Sn-Ta Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=29930ed9c0695dff80902691354edb1a&context=copy_url<br>Lat Long: 7.2880\u00c2\u00b0S, 27.4321\u00c2\u00b0E<br>Lat Long Clean: -7.288, 27.43<br>Report ID: 29930ed9c0695dff80902691354edb1a<br>Prospector Report ID: PP000000491<br>Report Date: Wednesday, January 25, 2017<br>Qualified Author(s): Raymond P. Spanjers, P.Geo<br>Deposit Type: rare-element complex (REC) pegmatite deposit<br>Mineral: Lithium, Tantalum, Tin<br>Mineral Resources Estimate: Not Mentioned<br>Company: Tantalex Resources Corporation (formerly, Lynnwood Capital Inc.)<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=29930ed9c0695dff80902691354edb1a",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=29930ed9c0695dff80902691354edb1a&context=copy_url",
+        "report_id.1": "29930ed9c0695dff80902691354edb1a",
+        "long lat": null,
+        "prospector_report_id": "PP000000491",
+        "report_date": "Wednesday, January 25, 2017",
+        "qualified_author_s_": "Raymond P. Spanjers, P.Geo",
+        "deposit_type": "rare-element complex (REC) pegmatite deposit",
+        "mineral": "Lithium, Tantalum, Tin",
+        "mineral_resources_estimate": "Not Mentioned",
+        "company": "Tantalex Resources Corporation (formerly, Lynnwood Capital Inc.)",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=29930ed9c0695dff80902691354edb1a",
+        "mineral_tags": [
+          "lithium",
+          "tantalum",
+          "tin"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43,
+          -7.288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "f83410c04da497a634f296916f5911c0",
+        "longitude": 27.23694,
+        "latitude": -11.76,
+        "name": "Kipushi 2019 Resource Update",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=f83410c04da497a634f296916f5911c0&context=copy_url<br>Lat Long: 11\u00c2\u00b045\u00e2\u20ac\u212236\u00e2\u20ac\u009d S 27\u00c2\u00b014\u00e2\u20ac\u212213\u00e2\u20ac\u009d E<br>Lat Long Clean: 11\u00c2\u00b045\u00e2\u20ac\u212236\u00e2\u20ac\u009d S 27\u00c2\u00b014\u00e2\u20ac\u212213\u00e2\u20ac\u009d E<br>Report ID: f83410c04da497a634f296916f5911c0<br>Prospector Report ID: PP000001308<br>Report Date: Friday, March 29, 2019<br>Qualified Author(s): Bernard Peters, B. Eng. (Mining), FAusIMM (201743); Michael Robertson, BSc Eng (Mining Geology), MSc (Structural Geology), Pr.Sci.Nat SACNASP, FGSSA; ; William Joughin, FSAIMM; Dean David, FAusIMM (CP) (102351), B App Sc (Metallurgy)<br>Deposit Type: Carbonate-hosted copper-zinc-lead mineralisation<br>Mineral: Copper<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource, Measured Mineral Resource<br>Company: Ivanhoe Mines Ltd.<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=f83410c04da497a634f296916f5911c0",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=f83410c04da497a634f296916f5911c0&context=copy_url",
+        "report_id.1": "f83410c04da497a634f296916f5911c0",
+        "long lat": null,
+        "prospector_report_id": "PP000001308",
+        "report_date": "Friday, March 29, 2019",
+        "qualified_author_s_": "Bernard Peters, B. Eng. (Mining), FAusIMM (201743); Michael Robertson, BSc Eng (Mining Geology), MSc (Structural Geology), Pr.Sci.Nat SACNASP, FGSSA; ; William Joughin, FSAIMM; Dean David, FAusIMM (CP) (102351), B App Sc (Metallurgy)",
+        "deposit_type": "Carbonate-hosted copper-zinc-lead mineralisation",
+        "mineral": "Copper",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource, Measured Mineral Resource",
+        "company": "Ivanhoe Mines Ltd.",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=f83410c04da497a634f296916f5911c0",
+        "mineral_tags": [
+          "copper"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.23694,
+          -11.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "a6a11c67d2cc8d1448e57a3dcbb5de32",
+        "longitude": 25.50536,
+        "latitude": -10.7272,
+        "name": "Material Assets of Katanga Mining Ltd",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=a6a11c67d2cc8d1448e57a3dcbb5de32&context=copy_url<br>Lat Long: 10\u00c2\u00b043'38.0\"S 25\u00c2\u00b030'19.3\"E<br>Lat Long Clean: 10\u00c2\u00b043'38.0\"S 25\u00c2\u00b030'19.3\"E<br>Report ID: a6a11c67d2cc8d1448e57a3dcbb5de32<br>Prospector Report ID: PP000001524<br>Report Date: Thursday, November 7, 2019<br>Qualified Author(s): Tahir Usmani, PEng, APEGA; Christiano Santos, CP (Geo), MAusIMM; Nicholas Dempers, Pr.Eng and FSAIMM, ECSA and SAIMM<br>Deposit Type: 0<br>Mineral: Copper, Cobalt<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource, Probable Mineral Reserve, Proved Mineral Reserve<br>Company: Katanga Mining Limited<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=a6a11c67d2cc8d1448e57a3dcbb5de32",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=a6a11c67d2cc8d1448e57a3dcbb5de32&context=copy_url",
+        "report_id.1": "a6a11c67d2cc8d1448e57a3dcbb5de32",
+        "long lat": null,
+        "prospector_report_id": "PP000001524",
+        "report_date": "Thursday, November 7, 2019",
+        "qualified_author_s_": "Tahir Usmani, PEng, APEGA; Christiano Santos, CP (Geo), MAusIMM; Nicholas Dempers, Pr.Eng and FSAIMM, ECSA and SAIMM",
+        "deposit_type": "0",
+        "mineral": "Copper, Cobalt",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource, Probable Mineral Reserve, Proved Mineral Reserve",
+        "company": "Katanga Mining Limited",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=a6a11c67d2cc8d1448e57a3dcbb5de32",
+        "mineral_tags": [
+          "copper",
+          "cobalt"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.50536,
+          -10.7272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "d6e3c2a921adc795ab814a9e993fc13f",
+        "longitude": 29.16297,
+        "latitude": -1.64061,
+        "name": "Bisie Tin Mine",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=d6e3c2a921adc795ab814a9e993fc13f&context=copy_url<br>Lat Long: 1\u00c2\u00b038'26.2\"S 29\u00c2\u00b009'46.7\"E<br>Lat Long Clean: 1\u00c2\u00b038'26.2\"S 29\u00c2\u00b009'46.7\"E<br>Report ID: d6e3c2a921adc795ab814a9e993fc13f<br>Prospector Report ID: PP000001616<br>Report Date: Tuesday, February 11, 2020<br>Qualified Author(s): Jeremy Witley, B.Sc. Hons., M.Sc. (Eng.), Pr.Sci.Nat, FGSSA; Vaughn Duke, Pr.Eng., PMP, B.Sc.<br>Deposit Type: Cassiterite-bearing stock-work or vein system adjacent and possibly distal to underlying source granite.<br>Mineral: Tin<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource, Measured Mineral Resource, Probable Mineral Reserve, Proved Mineral Reserve<br>Company: Alphamin Resources Corp.<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=d6e3c2a921adc795ab814a9e993fc13f",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=d6e3c2a921adc795ab814a9e993fc13f&context=copy_url",
+        "report_id.1": "d6e3c2a921adc795ab814a9e993fc13f",
+        "long lat": null,
+        "prospector_report_id": "PP000001616",
+        "report_date": "Tuesday, February 11, 2020",
+        "qualified_author_s_": "Jeremy Witley, B.Sc. Hons., M.Sc. (Eng.), Pr.Sci.Nat, FGSSA; Vaughn Duke, Pr.Eng., PMP, B.Sc.",
+        "deposit_type": "Cassiterite-bearing stock-work or vein system adjacent and possibly distal to underlying source granite.",
+        "mineral": "Tin",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource, Measured Mineral Resource, Probable Mineral Reserve, Proved Mineral Reserve",
+        "company": "Alphamin Resources Corp.",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=d6e3c2a921adc795ab814a9e993fc13f",
+        "mineral_tags": [
+          "tin"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.16297,
+          -1.64061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "bc4f791cf146d1fcaa53111d4682de2b",
+        "longitude": 15.33956,
+        "latitude": -4.37331,
+        "name": "North Congolese Gold Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=bc4f791cf146d1fcaa53111d4682de2b&context=copy_url<br>Lat Long: 4\u00c2\u00b022'23.9\"S 15\u00c2\u00b020'22.4\"E<br>Lat Long Clean: 4\u00c2\u00b022'23.9\"S 15\u00c2\u00b020'22.4\"E<br>Report ID: bc4f791cf146d1fcaa53111d4682de2b<br>Prospector Report ID: PP000001665<br>Report Date: Friday, March 20, 2020<br>Qualified Author(s): Michael Montgomery BAppSc (Geology).<br>Deposit Type: Disseminated epigenetic gold in association with pyrrhotite and arsenopyrite \u00c2\u00b1 pyrite forming stratabound bodies hosted in sheared BIF\u00e2\u20ac\u2122s; Gold in mesothermal quartz veins and/or quartz breccias bodies in association with pyrrhotite and arsenopyrite<br>Mineral: Gold<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource<br>Company: AJN Resources Inc.<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=bc4f791cf146d1fcaa53111d4682de2b",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=bc4f791cf146d1fcaa53111d4682de2b&context=copy_url",
+        "report_id.1": "bc4f791cf146d1fcaa53111d4682de2b",
+        "long lat": null,
+        "prospector_report_id": "PP000001665",
+        "report_date": "Friday, March 20, 2020",
+        "qualified_author_s_": "Michael Montgomery BAppSc (Geology).",
+        "deposit_type": "Disseminated epigenetic gold in association with pyrrhotite and arsenopyrite \u00c2\u00b1 pyrite forming stratabound bodies hosted in sheared BIF\u00e2\u20ac\u2122s; Gold in mesothermal quartz veins and/or quartz breccias bodies in association with pyrrhotite and arsenopyrite",
+        "mineral": "Gold",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource",
+        "company": "AJN Resources Inc.",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=bc4f791cf146d1fcaa53111d4682de2b",
+        "mineral_tags": [
+          "gold"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.33956,
+          -4.37331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "f4ad45d40bbec5264c30b57b90a31b70",
+        "longitude": 25.25,
+        "latitude": -10.7667,
+        "name": "Kamoa-Kakula 2020 Resource Update",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=f4ad45d40bbec5264c30b57b90a31b70&context=copy_url<br>Lat Long: 10\u00c2\u00b046\u00e2\u20ac\u2122S 25\u00c2\u00b015\u00e2\u20ac\u2122E<br>Lat Long Clean: 10\u00c2\u00b046\u00e2\u20ac\u2122S 25\u00c2\u00b015\u00e2\u20ac\u2122E<br>Report ID: f4ad45d40bbec5264c30b57b90a31b70<br>Prospector Report ID: PP000001675<br>Report Date: Wednesday, March 25, 2020<br>Qualified Author(s): Bernard Peters, B. Eng. (Mining), FAusIMM; Gordon Seibel, SME Registered Member; William Joughin, FSAIMM; Jon Treen P. Eng (Mining), PEO; Marius Phillips, MAusIMM; Gregory Ruiter Pr. Eng, ECSA<br>Deposit Type: Sediment-hosted stratiform copper deposit.<br>Mineral: Copper<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource, Probable Mineral Reserve<br>Company: Ivanhoe Mines Ltd.<br>Geography: Congo<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=f4ad45d40bbec5264c30b57b90a31b70",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=f4ad45d40bbec5264c30b57b90a31b70&context=copy_url",
+        "report_id.1": "f4ad45d40bbec5264c30b57b90a31b70",
+        "long lat": null,
+        "prospector_report_id": "PP000001675",
+        "report_date": "Wednesday, March 25, 2020",
+        "qualified_author_s_": "Bernard Peters, B. Eng. (Mining), FAusIMM; Gordon Seibel, SME Registered Member; William Joughin, FSAIMM; Jon Treen P. Eng (Mining), PEO; Marius Phillips, MAusIMM; Gregory Ruiter Pr. Eng, ECSA",
+        "deposit_type": "Sediment-hosted stratiform copper deposit.",
+        "mineral": "Copper",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource, Probable Mineral Reserve",
+        "company": "Ivanhoe Mines Ltd.",
+        "country": "Congo",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=f4ad45d40bbec5264c30b57b90a31b70",
+        "mineral_tags": [
+          "copper"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25,
+          -10.7667
+        ]
+      }
+    }
+  ]
+}

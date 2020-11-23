@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "fcba248a389b3b7263597b1ddd540a36",
+        "longitude": -7.91667,
+        "latitude": 7.716667,
+        "name": "Preliminary Economic Assessment Samapleu Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=fcba248a389b3b7263597b1ddd540a36&context=copy_url<br>Lat Long: 7\u00c2\u00b0 43\u00e2\u20ac\u2122 00\u00e2\u20ac\u009d N , 7\u00c2\u00b0 55\u00e2\u20ac\u2122 00\u00e2\u20ac\u009d W<br>Lat Long Clean: 7\u00c2\u00b0 43' 0.0001\" N 7\u00c2\u00b0 55' 0.0001\" W<br>Report ID: fcba248a389b3b7263597b1ddd540a36<br>Prospector Report ID: PP000001772<br>Report Date: Monday, June 1, 2020<br>Qualified Author(s): Daniel M. Gagnon, P.Eng.; Schadrac Ibrango, P. Geo, Ph.D, MBA; Nalini Singh, P.Eng.; Ryan Cunningham, P.Eng.; Volodymyr Liskovych, Ph.D, P.Eng.; Marie-Claude Dion St-Pierre, P.Eng.<br>Deposit Type: 0<br>Mineral: Copper, Nickel<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource<br>Company: Sama Resources Inc./Ressources Sama Inc.<br>Geography: C\u00c3\u00b4te d'Ivoire<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=fcba248a389b3b7263597b1ddd540a36",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=fcba248a389b3b7263597b1ddd540a36&context=copy_url",
+        "report_id.1": "fcba248a389b3b7263597b1ddd540a36",
+        "long lat": null,
+        "prospector_report_id": "PP000001772",
+        "report_date": "Monday, June 1, 2020",
+        "qualified_author_s_": "Daniel M. Gagnon, P.Eng.; Schadrac Ibrango, P. Geo, Ph.D, MBA; Nalini Singh, P.Eng.; Ryan Cunningham, P.Eng.; Volodymyr Liskovych, Ph.D, P.Eng.; Marie-Claude Dion St-Pierre, P.Eng.",
+        "deposit_type": "0",
+        "mineral": "Copper, Nickel",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource",
+        "company": "Sama Resources Inc./Ressources Sama Inc.",
+        "country": "C\u00c3\u00b4te d'Ivoire",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=fcba248a389b3b7263597b1ddd540a36",
+        "mineral_tags": [
+          "copper",
+          "nickel"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.91667,
+          7.716667
+        ]
+      }
+    }
+  ]
+}
