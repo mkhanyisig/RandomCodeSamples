@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10206838,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10206838",
+        "mrds_id": null,
+        "mas_id": "5040058801",
+        "site_name": "Selaata Phosphoric Acid Plant",
+        "latitude": 34.28218,
+        "longitude": 35.66816,
+        "region": "AS",
+        "country": "Lebanon",
+        "state": null,
+        "county": null,
+        "com_type": "N",
+        "commod1": "Phosphorus-Phosphates",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Fantel, Richard J.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "INTERNATIONAL FERTILIZER INDUSTRY ASSOCIATION. PHOSPHORICACID, TRIPLE SUPERPHOSPHATE AND AMMONIUM PHOSPHATE PLANTS1988 SURVEY. AUGUST 1988, 39PP.BRITISH SULPHUR CORPORATION. WORLD FERTILIZER ATLAS, EIGHTHED. APRIL 1987, 121PP.",
+        "yfp_ba": null,
+        "yr_fst_prd": 1968.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "phosphorus-phosphates"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66816,
+          34.28218
+        ]
+      }
+    }
+  ]
+}
