@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10279852,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10279852",
+        "mrds_id": null,
+        "mas_id": "5250001016",
+        "site_name": "Alba Knuff",
+        "latitude": 26.04927,
+        "longitude": 50.60108,
+        "region": "AS",
+        "country": "Bahrain",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Aluminum",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": "Knuff Askar",
+        "ore_ctrl": null,
+        "reporter": "Wilburn, David R.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "BERNADETTE MICHALSKI, SUMMARY REPORT ON FOREIGN TRAVEL OFBERNADETTE MICHALSKI TO BAHRAIN, OMAN, QATAR, THEUNITED ARAB EMIRATES, AND THE UNITED KINGDOM,(SEPT. 8 - SEPT. 30, 1993).METALS WEEK.  OCT. 5, 1992, P. 7.MINING WEEKLY, (JULY 1, 1994).METAL BULLETIN THURSDAY, 27 MAY 1993 P.-13",
+        "yfp_ba": null,
+        "yr_fst_prd": 1971.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "aluminum"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60108,
+          26.04927
+        ]
+      }
+    }
+  ]
+}

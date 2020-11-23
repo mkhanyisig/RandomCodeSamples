@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10062303,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10062303",
+        "mrds_id": "TC35640",
+        "mas_id": null,
+        "site_name": "Arawak Cement",
+        "latitude": 13.12117,
+        "longitude": -59.61988,
+        "region": "CR",
+        "country": "Barbados",
+        "state": "Saint Lucy",
+        "county": null,
+        "com_type": "N",
+        "commod1": "Limestone, General",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Unknown",
+        "dep_type": "Sedimentary",
+        "prod_size": "Y",
+        "dev_stat": "Producer",
+        "ore": "Limestone",
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Page, Norman J.",
+        "hrock_unit": null,
+        "hrock_type": "Limestone",
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "TORRES, I.E., BARBADOS, IN MINERAL INDUSTRIES OF LATIN AMERICA AND CANADA, 1990, INTERNATIONAL REVIEW, U.S. BUREAU OF MINES MINERALS YEARBOOK V. 3, P. 38-44CIMRITORRES (1990).",
+        "yfp_ba": null,
+        "yr_fst_prd": 1984.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "limestone",
+          "general"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61988,
+          13.12117
+        ]
+      }
+    }
+  ]
+}
