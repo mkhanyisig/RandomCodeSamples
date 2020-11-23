@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "09d5071575e9f2fb9cbe802ceeea8159",
+        "longitude": 35.7575,
+        "latitude": -15.8187,
+        "name": "Songwe Hill Rare Earth Element (REE) Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=09d5071575e9f2fb9cbe802ceeea8159&context=copy_url<br>Lat Long: 15\u00c2\u00b049'07.3\"S 35\u00c2\u00b045'27.0\"E<br>Lat Long Clean: 15\u00c2\u00b049'07.3\"S 35\u00c2\u00b045'27.0\"E<br>Report ID: 09d5071575e9f2fb9cbe802ceeea8159<br>Prospector Report ID: PP000001604<br>Report Date: Monday, February 3, 2020<br>Qualified Author(s): Jeremy C Witley Pr. Sci. Nat; Scott Swinden P.Geo; Graham Trusler Pr. Eng; Nick Dempers Pr. Eng, FSAIMM<br>Deposit Type: High-level, REE-enriched carbonatite intrusive complex<br>Mineral: Rare Earth Elements<br>Mineral Resources Estimate: Inferred Mineral Resource, Indicated Mineral Resource, Measured Mineral Resource<br>Company: Mkango Resources Ltd.<br>Geography: Republic of Malawi<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=09d5071575e9f2fb9cbe802ceeea8159",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=09d5071575e9f2fb9cbe802ceeea8159&context=copy_url",
+        "report_id.1": "09d5071575e9f2fb9cbe802ceeea8159",
+        "long lat": null,
+        "prospector_report_id": "PP000001604",
+        "report_date": "Monday, February 3, 2020",
+        "qualified_author_s_": "Jeremy C Witley Pr. Sci. Nat; Scott Swinden P.Geo; Graham Trusler Pr. Eng; Nick Dempers Pr. Eng, FSAIMM",
+        "deposit_type": "High-level, REE-enriched carbonatite intrusive complex",
+        "mineral": "Rare Earth Elements",
+        "mineral_resources_estimate": "Inferred Mineral Resource, Indicated Mineral Resource, Measured Mineral Resource",
+        "company": "Mkango Resources Ltd.",
+        "country": "Republic of Malawi",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=09d5071575e9f2fb9cbe802ceeea8159",
+        "mineral_tags": [
+          "rareearthelements"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7575,
+          -15.8187
+        ]
+      }
+    }
+  ]
+}

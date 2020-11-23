@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 60000607,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=60000607",
+        "mrds_id": "ISM0255",
+        "mas_id": null,
+        "site_name": "Orsk Combine",
+        "latitude": 51.21467,
+        "longitude": 58.58459,
+        "region": "EU, AS",
+        "country": "Russia, Kazakhstan",
+        "state": "Aqtobe, Orenburgskaya Oblast'",
+        "county": null,
+        "com_type": "M",
+        "commod1": "Cobalt, Nickel, Iron",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Unknown",
+        "dep_type": "LATERITE, RESIDUAL ENRICHMENT",
+        "prod_size": "Y",
+        "dev_stat": "Producer",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": "Orsk Chalilovo, Orsk Khailovo",
+        "ore_ctrl": null,
+        "reporter": "KRAUSS, ULRICH H.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": null,
+        "yfp_ba": null,
+        "yr_fst_prd": 1938.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "iron",
+          "nickel",
+          "cobalt"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.58459,
+          51.21467
+        ]
+      }
+    }
+  ]
+}

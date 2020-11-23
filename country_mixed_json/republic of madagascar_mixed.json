@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "18d94797334f19de9a82026b99707f4e",
+        "longitude": 45.21089,
+        "latitude": -18.1737,
+        "name": "Beravina Zircon Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=18d94797334f19de9a82026b99707f4e&context=copy_url<br>Lat Long: 18\u00c2\u00b010'25.3\"S 45\u00c2\u00b012'39.2\"E<br>Lat Long Clean: 18\u00c2\u00b010'25.3\"S 45\u00c2\u00b012'39.2\"E<br>Report ID: 18d94797334f19de9a82026b99707f4e<br>Prospector Report ID: PP000001193<br>Report Date: Thursday, December 20, 2018<br>Qualified Author(s): Michael S. Cronwright Pr.Sci.Nat., FGSSA; John Derbyshire Pr.Eng., FSAIMM; Jeremy Witley Pr.Sci.Nat., FGSSA; Andr\u00c3\u00a9 van der Merwe Pr.Sci.Nat., MAusIMM, FGSSA<br>Deposit Type: weathered zoned pegmatite zirconium mineralisation<br>Mineral: Zirconium<br>Mineral Resources Estimate: Inferred Mineral Resource<br>Company: Diamond Fields Resources Inc.<br>Geography: Republic of Madagascar<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=18d94797334f19de9a82026b99707f4e",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=18d94797334f19de9a82026b99707f4e&context=copy_url",
+        "report_id.1": "18d94797334f19de9a82026b99707f4e",
+        "long lat": null,
+        "prospector_report_id": "PP000001193",
+        "report_date": "Thursday, December 20, 2018",
+        "qualified_author_s_": "Michael S. Cronwright Pr.Sci.Nat., FGSSA; John Derbyshire Pr.Eng., FSAIMM; Jeremy Witley Pr.Sci.Nat., FGSSA; Andr\u00c3\u00a9 van der Merwe Pr.Sci.Nat., MAusIMM, FGSSA",
+        "deposit_type": "weathered zoned pegmatite zirconium mineralisation",
+        "mineral": "Zirconium",
+        "mineral_resources_estimate": "Inferred Mineral Resource",
+        "company": "Diamond Fields Resources Inc.",
+        "country": "Republic of Madagascar",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=18d94797334f19de9a82026b99707f4e",
+        "mineral_tags": [
+          "zirconium"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.21089,
+          -18.1737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "76d1bb6fa9b1dbfadd6a0e4e5da8f0d4",
+        "longitude": 48.17614,
+        "latitude": -18.6473,
+        "name": "Ambatovy Nickel Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=76d1bb6fa9b1dbfadd6a0e4e5da8f0d4&context=copy_url<br>Lat Long: 18\u00c2\u00b038'50.4\"S 48\u00c2\u00b010'34.1\"E<br>Lat Long Clean: 18\u00c2\u00b038'50.4\"S 48\u00c2\u00b010'34.1\"E<br>Report ID: 76d1bb6fa9b1dbfadd6a0e4e5da8f0d4<br>Prospector Report ID: PP000001212<br>Report Date: Thursday, January 10, 2019<br>Qualified Author(s): Michael Elias, FAusIMM; Stewart Lewis, MAusIMM(CP); Paul O'Callaghan, FAusIMM; Adrian Martinez, P.Geo; Glen Smith, P. Eng.<br>Deposit Type: typical nickel laterites in which nickel enrichment has occurred in the residual soils formed by tropical weathering of ultramafic bedrock<br>Mineral: Copper, Nickel<br>Mineral Resources Estimate: Measured Mineral Resource<br>Company: Sherritt International Corporation<br>Geography: Republic of Madagascar<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=76d1bb6fa9b1dbfadd6a0e4e5da8f0d4",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=76d1bb6fa9b1dbfadd6a0e4e5da8f0d4&context=copy_url",
+        "report_id.1": "76d1bb6fa9b1dbfadd6a0e4e5da8f0d4",
+        "long lat": null,
+        "prospector_report_id": "PP000001212",
+        "report_date": "Thursday, January 10, 2019",
+        "qualified_author_s_": "Michael Elias, FAusIMM; Stewart Lewis, MAusIMM(CP); Paul O'Callaghan, FAusIMM; Adrian Martinez, P.Geo; Glen Smith, P. Eng.",
+        "deposit_type": "typical nickel laterites in which nickel enrichment has occurred in the residual soils formed by tropical weathering of ultramafic bedrock",
+        "mineral": "Copper, Nickel",
+        "mineral_resources_estimate": "Measured Mineral Resource",
+        "company": "Sherritt International Corporation",
+        "country": "Republic of Madagascar",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=76d1bb6fa9b1dbfadd6a0e4e5da8f0d4",
+        "mineral_tags": [
+          "copper",
+          "nickel"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17614,
+          -18.6473
+        ]
+      }
+    }
+  ]
+}

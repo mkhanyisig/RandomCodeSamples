@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10231299,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10231299",
+        "mrds_id": null,
+        "mas_id": "5590008001",
+        "site_name": "Singapore Plant  Ti",
+        "latitude": 2.0014,
+        "longitude": 103.65053,
+        "region": "AS",
+        "country": "Singapore",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Titanium, Pigment",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Kraemer, Sandra R.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "*ISHIHARA IN JAPAN.*DOCUMENTS PUBLISHED BY THE GOVERNMENT OF SINGAPORE-FOREIGN TRADE STATISTICS, REPORT ON WAGES, CENSUS OFINDUSTRIAL PRODUCTION, BULLETIN INTERNATIONAL DES DOUANES.*DATA DEVELOPED FOR OTHER PLANTS.",
+        "yfp_ba": null,
+        "yr_fst_prd": 1989.0,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": 1989.0,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "titanium",
+          "pigment"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65053,
+          2.0014
+        ]
+      }
+    }
+  ]
+}

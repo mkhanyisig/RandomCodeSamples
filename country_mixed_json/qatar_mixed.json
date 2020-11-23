@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dep_id": 10158546,
+        "url": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10158546",
+        "mrds_id": null,
+        "mas_id": "5180001016",
+        "site_name": "Umm-Al-Quwain",
+        "latitude": 24.98264,
+        "longitude": 51.61775,
+        "region": "AS",
+        "country": "Qatar",
+        "state": null,
+        "county": null,
+        "com_type": "M",
+        "commod1": "Aluminum, Contained or Metal",
+        "commod2": null,
+        "commod3": null,
+        "oper_type": "Processing Plant",
+        "dep_type": null,
+        "prod_size": null,
+        "dev_stat": "Plant",
+        "ore": null,
+        "gangue": null,
+        "other_matl": null,
+        "orebody_fm": null,
+        "work_type": null,
+        "model": null,
+        "alteration": null,
+        "conc_proc": null,
+        "names": null,
+        "ore_ctrl": null,
+        "reporter": "Buckingham, David A.",
+        "hrock_unit": null,
+        "hrock_type": null,
+        "arock_unit": null,
+        "arock_type": null,
+        "structure": null,
+        "tectonic": null,
+        "ref": "INTERNATIONAL MINING, ASIA, UNITED ARAB EMIRATES, AUG. 87,PP115, 116.MINING JOURNAL, LONDON, \"CHINA TAKES STAKE IN UAE SMELTER\"VOL. 309, #7947, DEC. 11, 1987, P479.MBM ALUMINIUM SUPPLEMENT, \"STRATEGY\", \"GULF ALUMINIUM SHAPESUP FOR THE FUTURE\", JANUARY 1988, PP27-32.MBM ALUMINIUM SUPPLEMENT,\"OVERVIEW\", JANUARY, 1988, P7.AMERICAN METAL MARKET, \"ARAB WORLD CONSIDERS EXPANDINGCAPACITY OF ALUMINUM SMELTERS\", JULY, 26, 1988, P?.AMERICAN METAL MARKET, \"$1 BILLION ALUMINUM SMELTER ISPROPOSED FOR THE PERSIAN GULF\", FEB. 12, 1988, PP1, 8.MINING JOURNAL, LONDON, \"GULF ALUMINIUM PLANT\" VOL. 310,#7955, FEB. 12, 1988, P111.AMERICAN METAL MARKET, \"QATAR SMELTER OUTPUT MARKED FORPARTNERS\", DEC. 8, 1988, PP1, 8.",
+        "yfp_ba": null,
+        "yr_fst_prd": null,
+        "ylp_ba": null,
+        "yr_lst_prd": null,
+        "dy_ba": null,
+        "disc_yr": null,
+        "prod_yrs": null,
+        "discr": null,
+        "mineral_tags": [
+          "aluminum",
+          "containedormetal"
+        ],
+        "report_type": "usgs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.61775,
+          24.98264
+        ]
+      }
+    }
+  ]
+}

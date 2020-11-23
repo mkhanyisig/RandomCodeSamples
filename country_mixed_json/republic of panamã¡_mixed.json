@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "72352e630dbfea16bd193201e8973b81",
+        "longitude": -80.6333,
+        "latitude": 8.833333,
+        "name": "Cobre Panam\u00c3\u00a1 Project",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=72352e630dbfea16bd193201e8973b81&context=copy_url<br>Lat Long: N8\u00c2\u00b050\u00e2\u20ac\u2122 W80\u00c2\u00b038\u00e2\u20ac\u2122<br>Lat Long Clean: N8\u00c2\u00b050\u00e2\u20ac\u2122 W80\u00c2\u00b038\u00e2\u20ac\u2122<br>Report ID: 72352e630dbfea16bd193201e8973b81<br>Prospector Report ID: PP000001310<br>Report Date: Friday, March 29, 2019<br>Qualified Author(s): David Gray (QP) BSc(Geology), MAusIMM, FAIG; Michael Lawlor (QP) BEng Hons (Mining), MEngSc, FAusIMM; Robert Stone (QP) BSc(Hons), CEng, ACSM<br>Deposit Type: copper-gold-molybdenum porphyry deposits<br>Mineral: Copper, Gold, Silver, molybdenum<br>Mineral Resources Estimate: Measured Mineral Resource<br>Company: First Quantum Minerals Ltd<br>Geography: Republic of Panam\u00c3\u00a1<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=72352e630dbfea16bd193201e8973b81",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=72352e630dbfea16bd193201e8973b81&context=copy_url",
+        "report_id.1": "72352e630dbfea16bd193201e8973b81",
+        "long lat": null,
+        "prospector_report_id": "PP000001310",
+        "report_date": "Friday, March 29, 2019",
+        "qualified_author_s_": "David Gray (QP) BSc(Geology), MAusIMM, FAIG; Michael Lawlor (QP) BEng Hons (Mining), MEngSc, FAusIMM; Robert Stone (QP) BSc(Hons), CEng, ACSM",
+        "deposit_type": "copper-gold-molybdenum porphyry deposits",
+        "mineral": "Copper, Gold, Silver, molybdenum",
+        "mineral_resources_estimate": "Measured Mineral Resource",
+        "company": "First Quantum Minerals Ltd",
+        "country": "Republic of Panam\u00c3\u00a1",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=72352e630dbfea16bd193201e8973b81",
+        "mineral_tags": [
+          "gold",
+          "copper",
+          "silver",
+          "molybdenum"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6333,
+          8.833333
+        ]
+      }
+    }
+  ]
+}

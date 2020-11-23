@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "a7bdc247c31479b3acbc943bdc1c4a88",
+        "longitude": 128.8333,
+        "latitude": 37.13333,
+        "name": "Sangdong Project Mineral Resources and Reserves",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=a7bdc247c31479b3acbc943bdc1c4a88&context=copy_url<br>Lat Long: 37\u00c2\u00b008\u00e2\u20ac\u2122N , 128\u00c2\u00b050\u00e2\u20ac\u2122E<br>Lat Long Clean: 37\u00c2\u00b008\u00e2\u20ac\u2122N , 128\u00c2\u00b050\u00e2\u20ac\u2122E<br>Report ID: a7bdc247c31479b3acbc943bdc1c4a88<br>Prospector Report ID: PP000000374<br>Report Date: Sunday, July 31, 2016<br>Qualified Author(s): Adam Wheeler, B.Sc, M.Sc, C. Eng.<br>Deposit Type: tungsten skarn deposit<br>Mineral: Tungsten, molybdenum<br>Mineral Resources Estimate: Indicated Mineral Resource<br>Company: Almonty Industries Inc.<br>Geography: South Korea<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=a7bdc247c31479b3acbc943bdc1c4a88",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=a7bdc247c31479b3acbc943bdc1c4a88&context=copy_url",
+        "report_id.1": "a7bdc247c31479b3acbc943bdc1c4a88",
+        "long lat": null,
+        "prospector_report_id": "PP000000374",
+        "report_date": "Sunday, July 31, 2016",
+        "qualified_author_s_": "Adam Wheeler, B.Sc, M.Sc, C. Eng.",
+        "deposit_type": "tungsten skarn deposit",
+        "mineral": "Tungsten, molybdenum",
+        "mineral_resources_estimate": "Indicated Mineral Resource",
+        "company": "Almonty Industries Inc.",
+        "country": "South Korea",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=a7bdc247c31479b3acbc943bdc1c4a88",
+        "mineral_tags": [
+          "molybdenum",
+          "tungsten"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8333,
+          37.13333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "report_id": "0e356a523ea08890c62a9e716ad28229",
+        "longitude": 128.8333,
+        "latitude": 37.13333,
+        "name": "Sangdong Tungsten Project Feasibility Study",
+        "description": "\u00ef\u00bb\u00bfLink: https://43-101.com/downloadReport.php?id=0e356a523ea08890c62a9e716ad28229&context=copy_url<br>Lat Long: 37\u00c2\u00b008\u00e2\u20ac\u2122N , 128\u00c2\u00b050\u00e2\u20ac\u2122E<br>Lat Long Clean: 37\u00c2\u00b008\u00e2\u20ac\u2122N , 128\u00c2\u00b050\u00e2\u20ac\u2122E<br>Report ID: 0e356a523ea08890c62a9e716ad28229<br>Prospector Report ID: PP000000144<br>Report Date: Wednesday, June 3, 2015<br>Qualified Author(s): Malcolm Buck, P.Eng.; Joe Hirst, B.Sc. (Hons), M.Sc., CGeol, FGS, EurGeol Geologist; Brian LeBlanc, P.Eng.<br>Deposit Type: 0<br>Mineral: Tungsten, molybdenum<br>Mineral Resources Estimate: Indicated Mineral Resource<br>Company: Woulfe Mining Corp.<br>Geography: South Korea<br>Search Link: https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=0e356a523ea08890c62a9e716ad28229",
+        "tessellate": -1.0,
+        "extrude": 0.0,
+        "___link": "https://43-101.com/downloadReport.php?id=0e356a523ea08890c62a9e716ad28229&context=copy_url",
+        "report_id.1": "0e356a523ea08890c62a9e716ad28229",
+        "long lat": null,
+        "prospector_report_id": "PP000000144",
+        "report_date": "Wednesday, June 3, 2015",
+        "qualified_author_s_": "Malcolm Buck, P.Eng.; Joe Hirst, B.Sc. (Hons), M.Sc., CGeol, FGS, EurGeol Geologist; Brian LeBlanc, P.Eng.",
+        "deposit_type": "0",
+        "mineral": "Tungsten, molybdenum",
+        "mineral_resources_estimate": "Indicated Mineral Resource",
+        "company": "Woulfe Mining Corp.",
+        "country": "South Korea",
+        "search_link": "https://43-101.com/results.php?sort=1&resultsPerPage=100&datasource=PRSPRM&extended=1&report=0e356a523ea08890c62a9e716ad28229",
+        "mineral_tags": [
+          "molybdenum",
+          "tungsten"
+        ],
+        "report_type": "43101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8333,
+          37.13333
+        ]
+      }
+    }
+  ]
+}
