@@ -1,0 +1,376 @@
+/* screen - prospector-map-usgs-mr-data-pop-up */
+
+.font-class-1 {
+  color: var(--mako);
+  font-family: "Gotham", Helvetica, Arial, serif;
+  font-size: 14px;
+  line-height: 14px;
+}
+.font-class-2 {
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.prospector-map-usgs-mr-data-pop-up {
+  background-color: var(--white);
+  height: 400px;
+  position: relative;
+  width: 628px;
+}
+.prospector-map-usgs-mr-data-pop-up .commodityl-y-vanadium-9hQotL {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.prospector-map-usgs-mr-data-pop-up .countrymexico-XShmeK {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 210px;
+}
+.prospector-map-usgs-mr-data-pop-up .deposit-id10008156-uByZ7O {
+  background-color: transparent;
+  height: 57px;
+  position: absolute;
+  right: calc(40.06% - 41px);
+  text-align: left;
+  top: 0px;
+  width: 102px;
+}
+.prospector-map-usgs-mr-data-pop-up .developmen-occurrence-uByZ7O {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 202px;
+}
+.prospector-map-usgs-mr-data-pop-up .ellipse-2-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 617px;
+  position: absolute;
+  top: 377px;
+  width: 14px;
+}
+.prospector-map-usgs-mr-data-pop-up .group-17-vkW8Bg {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: 17px;
+  top: 28px;
+  width: 20px;
+}
+.prospector-map-usgs-mr-data-pop-up .group-20-vkW8Bg {
+  background-color: var(--white);
+  border: 3px solid var(--cerulean);
+  border-radius: 5px;
+  height: 40px;
+  position: absolute;
+  right: 10px;
+  top: calc(27.78% - 11px);
+  width: 100px;
+}
+.prospector-map-usgs-mr-data-pop-up .group-22-vkW8Bg {
+  background-color: transparent;
+  bottom: calc(28.88% - 10px);
+  height: 33px;
+  left: 29px;
+  position: absolute;
+  width: 275px;
+}
+.prospector-map-usgs-mr-data-pop-up .group-23-vkW8Bg {
+  background-color: transparent;
+  bottom: calc(48.73% - 23px);
+  height: 47px;
+  left: 29px;
+  position: absolute;
+  width: 458px;
+}
+.prospector-map-usgs-mr-data-pop-up .group-24-vkW8Bg {
+  background-color: transparent;
+  height: 55px;
+  left: 29px;
+  position: absolute;
+  top: calc(28.99% - 16px);
+  width: 449px;
+}
+.prospector-map-usgs-mr-data-pop-up .image-12-hsZ6Eg {
+  background-color: transparent;
+  height: calc(100.00% + 93px);
+  left: -16px;
+  position: absolute;
+  top: -40px;
+  width: calc(100.00% + 196px);
+}
+.prospector-map-usgs-mr-data-pop-up .image-13-s2h2t7 {
+  background-color: transparent;
+  height: calc(100.00% + 93px);
+  left: -16px;
+  position: absolute;
+  top: -40px;
+  width: calc(100.00% + 196px);
+}
+.prospector-map-usgs-mr-data-pop-up .image-8-C61RwL {
+  background-color: transparent;
+  height: 1248px;
+  left: -1192px;
+  position: absolute;
+  top: -115px;
+  width: 2426px;
+}
+.prospector-map-usgs-mr-data-pop-up .image-8-VMr6Om {
+  background-color: transparent;
+  height: 1248px;
+  left: -1192px;
+  position: absolute;
+  top: -115px;
+  width: 2426px;
+}
+.prospector-map-usgs-mr-data-pop-up .image-8-mzXdH9 {
+  background-color: transparent;
+  height: 1248px;
+  left: -1192px;
+  position: absolute;
+  top: -115px;
+  width: 2426px;
+}
+.prospector-map-usgs-mr-data-pop-up .line-6-jQWoU9 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.prospector-map-usgs-mr-data-pop-up .line-7-jQWoU9 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.prospector-map-usgs-mr-data-pop-up .line-8-vkW8Bg {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 20.80%;
+  width: 100%;
+}
+.prospector-map-usgs-mr-data-pop-up .mask-group-7-C61RwL {
+  background-color: transparent;
+  height: 57px;
+  left: 154px;
+  overflow: hidden;
+  position: absolute;
+  top: 623px;
+  width: 54px;
+}
+.prospector-map-usgs-mr-data-pop-up .mask-group-8-vkW8Bg {
+  background-color: transparent;
+  height: 57px;
+  left: 29px;
+  overflow: hidden;
+  position: absolute;
+  top: 13px;
+  width: 54px;
+}
+.prospector-map-usgs-mr-data-pop-up .mr-data-idd000120-uByZ7O {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 0px;
+  width: 102px;
+}
+.prospector-map-usgs-mr-data-pop-up .rectangle-12-vkW8Bg {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.prospector-map-usgs-mr-data-pop-up .reporterfi-ohn-mark-g-vkW8Bg {
+  background-color: transparent;
+  bottom: -2px;
+  height: 60px;
+  left: 29px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 38px);
+}
+.prospector-map-usgs-mr-data-pop-up .span0-9q6NIR {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span0-Jy8yAW {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span0-W1uKTk {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span0-XTTW9O {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span0-gnrdYy {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span0-rGZswo {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span0-zuXaZw {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-9q6NIR {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-Jy8yAW {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-W1uKTk {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-XTTW9O {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-gnrdYy {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-rGZswo {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .span1-zuXaZw {
+  color: rgba(69,69,85,1.0);
+  font-family: 'Gotham-Book', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.prospector-map-usgs-mr-data-pop-up .statechihuahua-XShmeK {
+  background-color: transparent;
+  height: 49px;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}
+.prospector-map-usgs-mr-data-pop-up .usgs-data--oint-popup-C61RwL {
+  background-color: transparent;
+  height: 400px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 628px;
+}
+
+.prospector-map-usgs-mr-data-pop-up .viewdetails-VZzrf3 {
+  background-color: transparent;
+  color: var(--cerulean);
+  font-size: 14px;
+  height: calc(100.00% - 8px);
+  line-height: 14px;
+  position: absolute;
+  right: calc(47.99% - 25px);
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 52px;
+}
+.prospector-map-usgs-mr-data-pop-up .x144900-vkW8Bg {
+  background-color: transparent;
+  color: var(--mako);
+  font-size: 18px;
+  height: 50px;
+  left: 14.55%;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(5.27% - 3px);
+  width: 75.74%;
+}
+:root {
+  --cerulean: rgba(0,156,219,1.0);
+  --mako: rgba(69,69,85,1.0);
+  --white: rgba(255,255,255,1.0);
+}
