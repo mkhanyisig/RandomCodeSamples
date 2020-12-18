@@ -115,7 +115,7 @@
   border-radius: 5px;
   height: 40px;
   position: absolute;
-  right: calc(32.81% - 57px);
+  right: calc(50%);  /* 32.81% - 57px  */
   top: calc(23.04% - 9px);
   width: 175px;
 }
