@@ -15,14 +15,14 @@
   position: absolute;
   text-align: left;
   top: calc(23.53% - 12px);
-  width: 350px;
+  width: 230px;
 }
 .artboard-1 .deposit-ty-c-activity-Bp1hwL {
   background-color: transparent;
   height: 54px;
   overflow: hidden;
   position: absolute;
-  right: -2px;
+  right: calc(22%);
   text-align: left;
   top: 0px;
   width: 427px;
@@ -71,7 +71,7 @@
   left: 30px;
   position: absolute;
   top: calc(44.87% - 25px);
-  width: calc(100.00% - 80px);
+  width: 658px;
 }
 .artboard-1 .group-19-i9LdvS {
   background-color: transparent;
@@ -87,7 +87,7 @@
   border-radius: 5px;
   height: 40px;
   position: absolute;
-  right: 64px;
+  right: calc(53% - 180px );  /* 64px */;
   top: calc(23.04% - 9px);
   width: 175px;
 }
@@ -97,7 +97,7 @@
   border-radius: 5px;
   height: 40px;
   position: absolute;
-  right: calc(32.81% - 57px );  /*  */
+  right: calc(53%);  /* 32.81% - 57px*/
   top: calc(23.04% - 9px);
   width: 175px;
 }
@@ -140,7 +140,7 @@
   position: absolute;
   text-align: left;
   top: 0px;
-  width: 427px;
+  width: 240px;
 }
 .artboard-1 .mineralgold-Hd0stf {
   background-color: transparent;
@@ -335,7 +335,7 @@
   left: 29px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 44px);
+  width: 610px;
 }
 .artboard-1 .rectangle-12-i9LdvS {
   background-color: transparent;
@@ -500,14 +500,14 @@
   background-color: transparent;
   color: var(--mako);
   font-size: 18px;
-  height: 50px;
+  height: 60px;
   left: 7.77%;
   line-height: 18px;
   overflow: hidden;
   position: absolute;
   text-align: left;
   top: calc(4.98% - 2px);
-  width: 86.01%;
+  width: 570px;
 }
 .artboard-1 .x43-101-report-pop-up-C61RwL {
   background-color: white;
