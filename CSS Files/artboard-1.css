@@ -15,7 +15,7 @@
   position: absolute;
   text-align: left;
   top: calc(23.53% - 12px);
-  width: 469px;
+  width: 350px;
 }
 .artboard-1 .deposit-ty-c-activity-Bp1hwL {
   background-color: transparent;
@@ -97,7 +97,7 @@
   border-radius: 5px;
   height: 40px;
   position: absolute;
-  right: calc(50%);  /* 32.81% - 57px  */
+  right: calc(32.81% - 57px );  /*  */
   top: calc(23.04% - 9px);
   width: 175px;
 }
