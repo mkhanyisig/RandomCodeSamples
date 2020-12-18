@@ -97,7 +97,7 @@
   border-radius: 5px;
   height: 40px;
   position: absolute;
-  right: calc(50% - 57px);
+  right: calc(50% ); /* - 57px */
   top: calc(23.04% - 9px);
   width: 175px;
 }
