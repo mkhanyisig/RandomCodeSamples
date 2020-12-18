@@ -1,6 +1,6 @@
 /* screen - artboard-1 */
 
-.artboard-1 .gm-style-iw{
+.artboard-1 {
   background-color: var(--white);
   height: 474px;
   overflow: hidden;
@@ -97,7 +97,7 @@
   border-radius: 5px;
   height: 40px;
   position: absolute;
-  right: calc(32.81% - 57px);
+  right: calc(50% - 57px);
   top: calc(23.04% - 9px);
   width: 175px;
 }
